@@ -1,0 +1,1026 @@
+('selectMachine_lg1000_-_100672_idk_click',),('manualSelectionModal_click',),1.0
+('manualSelectionModal_click',),('updateFilesList_click',),0.4115
+('manualSelectionModal_click',),('confirmFiles_click',),0.4779
+('manualSelectionModal_click',),('closeSelectFilesModal_click',),0.0929
+('manualSelectionModal_click',),('manualSelectionModal_click',),0.0044
+('manualSelectionModal_click',),('addTagsModal_click',),0.0044
+('manualSelectionModal_click',),('downloadFiles_click',),0.0044
+('manualSelectionModal_click',),('logout_click',),0.0044
+('updateFilesList_click',),('closeSelectFilesModal_click',),0.0515
+('updateFilesList_click',),('updateFilesList_click',),0.2206
+('updateFilesList_click',),('confirmFiles_click',),0.7059
+('updateFilesList_click',),('resetFilesFilters_click',),0.0147
+('updateFilesList_click',),('manualSelectionModal_click',),0.0074
+('closeSelectFilesModal_click',),('manualSelectionModal_click',),0.4
+('closeSelectFilesModal_click',),('selectSignals_wheelhead2power_change',),0.08
+('closeSelectFilesModal_click',),('distributionOneChart_click',),0.04
+('closeSelectFilesModal_click',),('logout_click',),0.12
+('closeSelectFilesModal_click',),('selectAction_axis_limits_change',),0.04
+('closeSelectFilesModal_click',),('deleteChart_click',),0.12
+('closeSelectFilesModal_click',),('selectMachine_110000556_dec_click',),0.04
+('closeSelectFilesModal_click',),('selectTransformations_grinding_center_change',),0.04
+('closeSelectFilesModal_click',),('selectTransformations_common_moving-average_change',),0.04
+('closeSelectFilesModal_click',),('addChart_click',),0.08
+('selectSignals_wheelhead2power_change',),('selectSignals_wheelhead2power_change',),0.2024
+('selectSignals_wheelhead2power_change',),('selectSignals_wheelhead2speed_actual_change',),0.0595
+('selectSignals_wheelhead2power_change',),('manualSelectionModal_click',),0.0833
+('selectSignals_wheelhead2power_change',),('dataSchema_tdomonwh2x1z1_change',),0.0119
+('selectSignals_wheelhead2power_change',),('selectTransformations_grinding_center_change',),0.0357
+('selectSignals_wheelhead2power_change',),('selectIndicators_grinding_power-stats_change',),0.3571
+('selectSignals_wheelhead2power_change',),('selectIndicators_grinding_specific-energy_change',),0.0238
+('selectSignals_wheelhead2power_change',),('selectSignals_x1axisspeed_commanded_change',),0.0238
+('selectSignals_wheelhead2power_change',),('selectIndicators_basic_basic-stats_change',),0.0357
+('selectSignals_wheelhead2power_change',),('selectIndicators_grinding_contact-point_change',),0.0119
+('selectSignals_wheelhead2power_change',),('deleteChart_click',),0.0238
+('selectSignals_wheelhead2power_change',),('selectSignals_z1axisspeed_commanded_change',),0.0119
+('selectSignals_wheelhead2power_change',),('logout_click',),0.0357
+('selectSignals_wheelhead2power_change',),('editIndicatorParametersModalChart_0',),0.0119
+('selectSignals_wheelhead2power_change',),('addChart_click',),0.0119
+('selectSignals_wheelhead2power_change',),('selectAction_clonar_gr�fico_change',),0.0238
+('selectSignals_wheelhead2power_change',),('selectAction_axis_limits_change',),0.0119
+('selectSignals_wheelhead2power_change',),('sampleFiles_click',),0.0119
+('selectSignals_wheelhead2power_change',),('selectAction_editar_selecci�n_de_ficheros_change',),0.0119
+('selectSignals_wheelhead2speed_actual_change',),('selectSignals_x1axisforce_change',),0.375
+('selectSignals_wheelhead2speed_actual_change',),('selectSignals_wheelhead2power_change',),0.125
+('selectSignals_wheelhead2speed_actual_change',),('selectSignals_x1axisposition_actual_change',),0.125
+('selectSignals_wheelhead2speed_actual_change',),('selectTransformations_common_fft_change',),0.25
+('selectSignals_wheelhead2speed_actual_change',),('addChart_click',),0.125
+('selectSignals_x1axisforce_change',),('selectSignals_z1axisforce_change',),0.6
+('selectSignals_x1axisforce_change',),('addChart_click',),0.2
+('selectSignals_x1axisforce_change',),('selectAction_axis_limits_change',),0.2
+('selectSignals_z1axisforce_change',),('selectSignals_caxisspeed_actual_change',),0.25
+('selectSignals_z1axisforce_change',),('selectAction_axis_limits_change',),0.0833
+('selectSignals_z1axisforce_change',),('selectTransformations_common_moving-average_change',),0.1667
+('selectSignals_z1axisforce_change',),('selectSignals_x1axisforce_change',),0.0833
+('selectSignals_z1axisforce_change',),('selectTransformations_common_fft_change',),0.1667
+('selectSignals_z1axisforce_change',),('manualSelectionModal_click',),0.1667
+('selectSignals_z1axisforce_change',),('deleteChart_click',),0.0833
+('selectSignals_caxisspeed_actual_change',),('manualSelectionModal_click',),0.125
+('selectSignals_caxisspeed_actual_change',),('selectSignals_wheelhead2power_change',),0.125
+('selectSignals_caxisspeed_actual_change',),('logout_click',),0.125
+('selectSignals_caxisspeed_actual_change',),('selectTransformations_common_fft_change',),0.125
+('selectSignals_caxisspeed_actual_change',),('addChart_click',),0.125
+('selectSignals_caxisspeed_actual_change',),('selectSignals_z1axisforce_change',),0.125
+('selectSignals_caxisspeed_actual_change',),('selectSignals_caxisspeed_actual_change',),0.125
+('selectSignals_caxisspeed_actual_change',),('selectTransformations_grinding_center_change',),0.125
+('confirmFiles_click',),('deleteChart_click',),0.1407
+('confirmFiles_click',),('selectSignals_wheelhead2power_change',),0.0101
+('confirmFiles_click',),('manualSelectionModal_click',),0.4171
+('confirmFiles_click',),('distributionOneChart_click',),0.0402
+('confirmFiles_click',),('selectIndicators_grinding_power-stats_change',),0.0503
+('confirmFiles_click',),('selectAction_delete_all_charts_change',),0.005
+('confirmFiles_click',),('editIndicatorParametersModalChart_0',),0.005
+('confirmFiles_click',),('dataSchema_tdomonwh2x1_change',),0.005
+('confirmFiles_click',),('selectTransformations_grinding_center_change',),0.0503
+('confirmFiles_click',),('logout_click',),0.0201
+('confirmFiles_click',),('returnHome_click',),0.005
+('confirmFiles_click',),('selectAction_axis_limits_change',),0.0452
+('confirmFiles_click',),('selectTransformations_common_moving-average_change',),0.0201
+('confirmFiles_click',),('selectMachine_110000556_dec_click',),0.0151
+('confirmFiles_click',),('addChart_click',),0.1055
+('confirmFiles_click',),('downloadFiles_click',),0.0101
+('confirmFiles_click',),('selectAction_clonar_gr�fico_change',),0.0251
+('confirmFiles_click',),('selectAction_editar_selecci�n_de_ficheros_change',),0.0302
+('deleteChart_click',),('distributionOneChart_click',),0.2602
+('deleteChart_click',),('deleteChart_click',),0.374
+('deleteChart_click',),('selectIndicators_grinding_power-stats_change',),0.0407
+('deleteChart_click',),('addChart_click',),0.1138
+('deleteChart_click',),('selectAction_clonar_gr�fico_change',),0.0163
+('deleteChart_click',),('selectTransformations_grinding_center_change',),0.0325
+('deleteChart_click',),('manualSelectionModal_click',),0.1138
+('deleteChart_click',),('logout_click',),0.0163
+('deleteChart_click',),('selectSignals_x1axisspeed_commanded_change',),0.0081
+('deleteChart_click',),('selectMachine_110000556_dec_click',),0.0081
+('deleteChart_click',),('selectTransformations_common_moving-average_change',),0.0081
+('deleteChart_click',),('selectSignals_wheelhead2power_change',),0.0081
+('distributionOneChart_click',),('selectSignals_wheelhead2power_change',),0.0769
+('distributionOneChart_click',),('deleteChart_click',),0.0769
+('distributionOneChart_click',),('editIndicatorParametersModalChart_0',),0.0192
+('distributionOneChart_click',),('selectIndicators_grinding_power-stats_change',),0.0769
+('distributionOneChart_click',),('manualSelectionModal_click',),0.3654
+('distributionOneChart_click',),('addChart_click',),0.1923
+('distributionOneChart_click',),('selectSignals_x1axisspeed_commanded_change',),0.0192
+('distributionOneChart_click',),('selectAction_axis_limits_change',),0.0192
+('distributionOneChart_click',),('selectIndicators_grinding_force-stats_change',),0.0192
+('distributionOneChart_click',),('selectTransformations_common_moving-average_change',),0.0192
+('distributionOneChart_click',),('selectMachine_110000556_dec_click',),0.0192
+('distributionOneChart_click',),('distributionTwoCharts_click',),0.0577
+('distributionOneChart_click',),('selectTransformations_grinding_center_change',),0.0192
+('distributionOneChart_click',),('selectTransformations_common_fft_change',),0.0192
+('selectMachine_lg1000_-_100672_idk_click', 'manualSelectionModal_click'),('updateFilesList_click',),1.0
+('manualSelectionModal_click', 'updateFilesList_click'),('closeSelectFilesModal_click',),0.0538
+('manualSelectionModal_click', 'updateFilesList_click'),('updateFilesList_click',),0.2043
+('manualSelectionModal_click', 'updateFilesList_click'),('confirmFiles_click',),0.7204
+('manualSelectionModal_click', 'updateFilesList_click'),('resetFilesFilters_click',),0.0108
+('manualSelectionModal_click', 'updateFilesList_click'),('manualSelectionModal_click',),0.0108
+('updateFilesList_click', 'closeSelectFilesModal_click'),('manualSelectionModal_click',),0.7143
+('updateFilesList_click', 'closeSelectFilesModal_click'),('selectSignals_wheelhead2power_change',),0.1429
+('updateFilesList_click', 'closeSelectFilesModal_click'),('addChart_click',),0.1429
+('closeSelectFilesModal_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.3
+('closeSelectFilesModal_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.5
+('closeSelectFilesModal_click', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.2
+('closeSelectFilesModal_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2speed_actual_change',),0.125
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('dataSchema_tdomonwh2x1z1_change',),0.0625
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),0.1875
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('selectTransformations_grinding_center_change',),0.125
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('deleteChart_click',),0.0625
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('selectSignals_z1axisspeed_commanded_change',),0.0625
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('logout_click',),0.0625
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('selectSignals_x1axisspeed_commanded_change',),0.0625
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('selectAction_clonar_gr�fico_change',),0.0625
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('manualSelectionModal_click',),0.125
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2power_change'),('selectIndicators_grinding_power-stats_change',),0.0625
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2speed_actual_change'),('selectSignals_x1axisforce_change',),0.6
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2speed_actual_change'),('selectSignals_wheelhead2power_change',),0.2
+('selectSignals_wheelhead2power_change', 'selectSignals_wheelhead2speed_actual_change'),('selectSignals_x1axisposition_actual_change',),0.2
+('selectSignals_wheelhead2speed_actual_change', 'selectSignals_x1axisforce_change'),('selectSignals_z1axisforce_change',),1.0
+('selectSignals_x1axisforce_change', 'selectSignals_z1axisforce_change'),('selectSignals_caxisspeed_actual_change',),1.0
+('selectSignals_z1axisforce_change', 'selectSignals_caxisspeed_actual_change'),('manualSelectionModal_click',),0.3333
+('selectSignals_z1axisforce_change', 'selectSignals_caxisspeed_actual_change'),('selectSignals_wheelhead2power_change',),0.3333
+('selectSignals_z1axisforce_change', 'selectSignals_caxisspeed_actual_change'),('logout_click',),0.3333
+('selectSignals_caxisspeed_actual_change', 'manualSelectionModal_click'),('confirmFiles_click',),1.0
+('manualSelectionModal_click', 'confirmFiles_click'),('deleteChart_click',),0.1058
+('manualSelectionModal_click', 'confirmFiles_click'),('selectSignals_wheelhead2power_change',),0.0096
+('manualSelectionModal_click', 'confirmFiles_click'),('editIndicatorParametersModalChart_0',),0.0096
+('manualSelectionModal_click', 'confirmFiles_click'),('logout_click',),0.0385
+('manualSelectionModal_click', 'confirmFiles_click'),('selectIndicators_grinding_power-stats_change',),0.0481
+('manualSelectionModal_click', 'confirmFiles_click'),('selectTransformations_grinding_center_change',),0.0577
+('manualSelectionModal_click', 'confirmFiles_click'),('manualSelectionModal_click',),0.4712
+('manualSelectionModal_click', 'confirmFiles_click'),('selectAction_axis_limits_change',),0.0673
+('manualSelectionModal_click', 'confirmFiles_click'),('selectTransformations_common_moving-average_change',),0.0192
+('manualSelectionModal_click', 'confirmFiles_click'),('distributionOneChart_click',),0.0288
+('manualSelectionModal_click', 'confirmFiles_click'),('selectMachine_110000556_dec_click',),0.0192
+('manualSelectionModal_click', 'confirmFiles_click'),('addChart_click',),0.0865
+('manualSelectionModal_click', 'confirmFiles_click'),('downloadFiles_click',),0.0192
+('manualSelectionModal_click', 'confirmFiles_click'),('selectAction_clonar_gr�fico_change',),0.0192
+('confirmFiles_click', 'deleteChart_click'),('distributionOneChart_click',),0.2857
+('confirmFiles_click', 'deleteChart_click'),('deleteChart_click',),0.3929
+('confirmFiles_click', 'deleteChart_click'),('manualSelectionModal_click',),0.1429
+('confirmFiles_click', 'deleteChart_click'),('logout_click',),0.0357
+('confirmFiles_click', 'deleteChart_click'),('addChart_click',),0.1071
+('confirmFiles_click', 'deleteChart_click'),('selectMachine_110000556_dec_click',),0.0357
+('deleteChart_click', 'distributionOneChart_click'),('selectSignals_wheelhead2power_change',),0.0323
+('deleteChart_click', 'distributionOneChart_click'),('selectIndicators_grinding_power-stats_change',),0.0645
+('deleteChart_click', 'distributionOneChart_click'),('manualSelectionModal_click',),0.5161
+('deleteChart_click', 'distributionOneChart_click'),('selectTransformations_common_moving-average_change',),0.0323
+('deleteChart_click', 'distributionOneChart_click'),('selectMachine_110000556_dec_click',),0.0323
+('deleteChart_click', 'distributionOneChart_click'),('addChart_click',),0.2258
+('deleteChart_click', 'distributionOneChart_click'),('selectTransformations_grinding_center_change',),0.0323
+('deleteChart_click', 'distributionOneChart_click'),('distributionTwoCharts_click',),0.0323
+('deleteChart_click', 'distributionOneChart_click'),('selectTransformations_common_fft_change',),0.0323
+('distributionOneChart_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2speed_actual_change',),0.25
+('distributionOneChart_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),0.5
+('distributionOneChart_click', 'selectSignals_wheelhead2power_change'),('sampleFiles_click',),0.25
+('selectSignals_caxisspeed_actual_change', 'selectSignals_wheelhead2power_change'),('manualSelectionModal_click',),1.0
+('selectSignals_wheelhead2power_change', 'manualSelectionModal_click'),('confirmFiles_click',),0.7143
+('selectSignals_wheelhead2power_change', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.2857
+('confirmFiles_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),1.0
+('selectMachine_lg600b6-100636-idk_click',),('manualSelectionModal_click',),0.5455
+('selectMachine_lg600b6-100636-idk_click',),('selectSignals_wheelhead2power_change',),0.1818
+('selectMachine_lg600b6-100636-idk_click',),('selectTransformations_grinding_center_change',),0.0909
+('selectMachine_lg600b6-100636-idk_click',),('deleteChart_click',),0.0909
+('selectMachine_lg600b6-100636-idk_click',),('returnHome_click',),0.0909
+('selectIndicators_grinding_power-stats_change',),('confirmParameters_click',),0.5965
+('selectIndicators_grinding_power-stats_change',),('closeParametersModal_click',),0.0965
+('selectIndicators_grinding_power-stats_change',),('Radiobutton_fluid_oil_change',),0.0614
+('selectIndicators_grinding_power-stats_change',),('selectIndicators_grinding_power-stats_change',),0.0526
+('selectIndicators_grinding_power-stats_change',),('selectIndicators_grinding_force-stats_change',),0.0263
+('selectIndicators_grinding_power-stats_change',),('Radiobutton_al2o3_change',),0.0965
+('selectIndicators_grinding_power-stats_change',),('Radiobutton_steel_change',),0.0175
+('selectIndicators_grinding_power-stats_change',),('Radiobutton_cbn_change',),0.0263
+('selectIndicators_grinding_power-stats_change',),('selectIndicators_grinding_specific-energy_change',),0.0088
+('selectIndicators_grinding_power-stats_change',),('selectSignals_wheelhead2power_change',),0.0088
+('selectIndicators_grinding_power-stats_change',),('selectSignals_x1axisposition_actual_change',),0.0088
+('confirmParameters_click',),('distributionOneChart_click',),0.0075
+('confirmParameters_click',),('manualSelectionModal_click',),0.1642
+('confirmParameters_click',),('deleteChart_click',),0.0597
+('confirmParameters_click',),('editIndicatorParametersModalChart_0',),0.0373
+('confirmParameters_click',),('selectIndicators_grinding_power-stats_change',),0.2836
+('confirmParameters_click',),('selectIndicators_grinding_specific-energy_change',),0.0299
+('confirmParameters_click',),('dataSchema_tdomonwh2x1z1_change',),0.0075
+('confirmParameters_click',),('addChart_click',),0.097
+('confirmParameters_click',),('selectAction_axis_limits_change',),0.0597
+('confirmParameters_click',),('returnHome_click',),0.0075
+('confirmParameters_click',),('selectTransformations_common_negate_change',),0.0075
+('confirmParameters_click',),('selectTransformations_common_moving-average_change',),0.0224
+('confirmParameters_click',),('selectIndicators_basic_quotient_change',),0.0149
+('confirmParameters_click',),('selectSignals_wheelhead2power_change',),0.0224
+('confirmParameters_click',),('selectSignals_z1axisforce_change',),0.0075
+('confirmParameters_click',),('selectMachine_110000556_dec_click',),0.0299
+('confirmParameters_click',),('Axis-list_z1_change',),0.0075
+('confirmParameters_click',),('selectIndicators_grinding_force-stats_change',),0.0075
+('confirmParameters_click',),('selectIndicators_grinding_material-fed_change',),0.0075
+('confirmParameters_click',),('logout_click',),0.0448
+('confirmParameters_click',),('selectAction_clonar_gr�fico_change',),0.0149
+('confirmParameters_click',),('editIndicatorParametersModalChart_1',),0.0075
+('confirmParameters_click',),('selectAction_editar_selecci�n_de_ficheros_change',),0.0224
+('confirmParameters_click',),('selectAction_descargar_gr�fico_change',),0.0075
+('confirmParameters_click',),('selectTransformations_common_fft_change',),0.0224
+('addChart_click',),('selectIndicators_grinding_power-stats_change',),0.0294
+('addChart_click',),('selectSignals_wheelhead2power_change',),0.5882
+('addChart_click',),('selectIndicators_grinding_specific-energy_change',),0.0147
+('addChart_click',),('selectIndicators_grinding_force-stats_change',),0.0147
+('addChart_click',),('selectIndicators_grinding_stiffness_change',),0.0147
+('addChart_click',),('distributionOneChart_click',),0.0294
+('addChart_click',),('selectSignals_x1axisforce_change',),0.0147
+('addChart_click',),('selectSignals_z1axisforce_change',),0.1029
+('addChart_click',),('selectSignals_wheelhead2speed_actual_change',),0.0441
+('addChart_click',),('selectSignals_caxisspeed_actual_change',),0.0441
+('addChart_click',),('selectSignals_z1axisspeed_commanded_change',),0.0294
+('addChart_click',),('deleteChart_click',),0.0147
+('addChart_click',),('manualSelectionModal_click',),0.0441
+('addChart_click',),('sliderLastMonthId_click',),0.0147
+('editIndicatorParametersModalChart_0',),('confirmParameters_click',),0.6667
+('editIndicatorParametersModalChart_0',),('closeParametersModal_click',),0.3333
+('selectMachine_lg600b6-100636-idk_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.8333
+('selectMachine_lg600b6-100636-idk_click', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.1667
+('updateFilesList_click', 'updateFilesList_click'),('confirmFiles_click',),0.6667
+('updateFilesList_click', 'updateFilesList_click'),('updateFilesList_click',),0.2333
+('updateFilesList_click', 'updateFilesList_click'),('resetFilesFilters_click',),0.0333
+('updateFilesList_click', 'updateFilesList_click'),('closeSelectFilesModal_click',),0.0667
+('updateFilesList_click', 'confirmFiles_click'),('manualSelectionModal_click',),0.3511
+('updateFilesList_click', 'confirmFiles_click'),('distributionOneChart_click',),0.0532
+('updateFilesList_click', 'confirmFiles_click'),('selectIndicators_grinding_power-stats_change',),0.0532
+('updateFilesList_click', 'confirmFiles_click'),('selectAction_delete_all_charts_change',),0.0106
+('updateFilesList_click', 'confirmFiles_click'),('dataSchema_tdomonwh2x1_change',),0.0106
+('updateFilesList_click', 'confirmFiles_click'),('selectTransformations_grinding_center_change',),0.0426
+('updateFilesList_click', 'confirmFiles_click'),('returnHome_click',),0.0106
+('updateFilesList_click', 'confirmFiles_click'),('deleteChart_click',),0.1809
+('updateFilesList_click', 'confirmFiles_click'),('selectAction_axis_limits_change',),0.0213
+('updateFilesList_click', 'confirmFiles_click'),('selectTransformations_common_moving-average_change',),0.0213
+('updateFilesList_click', 'confirmFiles_click'),('addChart_click',),0.1277
+('updateFilesList_click', 'confirmFiles_click'),('selectMachine_110000556_dec_click',),0.0106
+('updateFilesList_click', 'confirmFiles_click'),('selectSignals_wheelhead2power_change',),0.0106
+('updateFilesList_click', 'confirmFiles_click'),('selectAction_clonar_gr�fico_change',),0.0319
+('updateFilesList_click', 'confirmFiles_click'),('selectAction_editar_selecci�n_de_ficheros_change',),0.0638
+('confirmFiles_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.5663
+('confirmFiles_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.3253
+('confirmFiles_click', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.0843
+('confirmFiles_click', 'manualSelectionModal_click'),('manualSelectionModal_click',),0.012
+('confirmFiles_click', 'manualSelectionModal_click'),('addTagsModal_click',),0.012
+('deleteChart_click', 'deleteChart_click'),('selectIndicators_grinding_power-stats_change',),0.0435
+('deleteChart_click', 'deleteChart_click'),('distributionOneChart_click',),0.413
+('deleteChart_click', 'deleteChart_click'),('deleteChart_click',),0.2826
+('deleteChart_click', 'deleteChart_click'),('selectTransformations_grinding_center_change',),0.0652
+('deleteChart_click', 'deleteChart_click'),('addChart_click',),0.0652
+('deleteChart_click', 'deleteChart_click'),('manualSelectionModal_click',),0.0652
+('deleteChart_click', 'deleteChart_click'),('logout_click',),0.0217
+('deleteChart_click', 'deleteChart_click'),('selectTransformations_common_moving-average_change',),0.0217
+('deleteChart_click', 'deleteChart_click'),('selectSignals_wheelhead2power_change',),0.0217
+('deleteChart_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),0.6
+('deleteChart_click', 'selectIndicators_grinding_power-stats_change'),('selectIndicators_grinding_force-stats_change',),0.4
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('distributionOneChart_click',),0.0152
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('manualSelectionModal_click',),0.1515
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('deleteChart_click',),0.0606
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('editIndicatorParametersModalChart_0',),0.0455
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectIndicators_grinding_power-stats_change',),0.4394
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('returnHome_click',),0.0152
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectMachine_110000556_dec_click',),0.0303
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectAction_axis_limits_change',),0.0455
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('logout_click',),0.0606
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectAction_clonar_gr�fico_change',),0.0152
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectAction_editar_selecci�n_de_ficheros_change',),0.0455
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectAction_descargar_gr�fico_change',),0.0152
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectSignals_wheelhead2power_change',),0.0152
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('selectTransformations_common_fft_change',),0.0303
+('selectIndicators_grinding_power-stats_change', 'confirmParameters_click'),('addChart_click',),0.0152
+('confirmParameters_click', 'distributionOneChart_click'),('deleteChart_click',),1.0
+('distributionOneChart_click', 'deleteChart_click'),('addChart_click',),0.25
+('distributionOneChart_click', 'deleteChart_click'),('selectAction_clonar_gr�fico_change',),0.25
+('distributionOneChart_click', 'deleteChart_click'),('manualSelectionModal_click',),0.25
+('distributionOneChart_click', 'deleteChart_click'),('selectIndicators_grinding_power-stats_change',),0.25
+('deleteChart_click', 'addChart_click'),('selectIndicators_grinding_power-stats_change',),0.0714
+('deleteChart_click', 'addChart_click'),('selectSignals_wheelhead2power_change',),0.5714
+('deleteChart_click', 'addChart_click'),('distributionOneChart_click',),0.1429
+('deleteChart_click', 'addChart_click'),('selectSignals_z1axisforce_change',),0.0714
+('deleteChart_click', 'addChart_click'),('selectSignals_z1axisspeed_commanded_change',),0.0714
+('deleteChart_click', 'addChart_click'),('selectSignals_wheelhead2speed_actual_change',),0.0714
+('addChart_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),0.5
+('addChart_click', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_al2o3_change',),0.5
+('confirmParameters_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.2273
+('confirmParameters_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.7273
+('confirmParameters_click', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.0455
+('confirmFiles_click', 'distributionOneChart_click'),('editIndicatorParametersModalChart_0',),0.125
+('confirmFiles_click', 'distributionOneChart_click'),('selectAction_axis_limits_change',),0.125
+('confirmFiles_click', 'distributionOneChart_click'),('manualSelectionModal_click',),0.25
+('confirmFiles_click', 'distributionOneChart_click'),('selectSignals_wheelhead2power_change',),0.125
+('confirmFiles_click', 'distributionOneChart_click'),('selectIndicators_grinding_power-stats_change',),0.125
+('confirmFiles_click', 'distributionOneChart_click'),('addChart_click',),0.25
+('distributionOneChart_click', 'editIndicatorParametersModalChart_0'),('confirmParameters_click',),1.0
+('selectAction_delete_all_charts_change',),('selectIndicators_grinding_power-stats_change',),0.5
+('selectAction_delete_all_charts_change',),('distributionTwoCharts_click',),0.5
+('closeParametersModal_click',),('manualSelectionModal_click',),0.1562
+('closeParametersModal_click',),('editIndicatorParametersModalChart_0',),0.0312
+('closeParametersModal_click',),('selectIndicators_grinding_defect-spark_change',),0.0312
+('closeParametersModal_click',),('selectIndicators_grinding_specific-energy_change',),0.0625
+('closeParametersModal_click',),('selectIndicators_grinding_power-stats_change',),0.2188
+('closeParametersModal_click',),('returnHome_click',),0.0312
+('closeParametersModal_click',),('logout_click',),0.0625
+('closeParametersModal_click',),('selectIndicators_basic_quotient_change',),0.0312
+('closeParametersModal_click',),('selectIndicators_grinding_stiffness_change',),0.0312
+('closeParametersModal_click',),('selectIndicators_grinding_material-fed_change',),0.0312
+('closeParametersModal_click',),('selectIndicators_grinding_contact-point_change',),0.0312
+('closeParametersModal_click',),('confirmParameters_click',),0.0312
+('closeParametersModal_click',),('selectTransformations_common_fft_change',),0.0312
+('closeParametersModal_click',),('selectTransformations_common_moving-average_change',),0.0312
+('closeParametersModal_click',),('deleteChart_click',),0.0625
+('closeParametersModal_click',),('selectSignals_wheelhead2power_change',),0.0938
+('closeParametersModal_click',),('selectAction_axis_limits_change',),0.0312
+('confirmFiles_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),0.8
+('confirmFiles_click', 'selectIndicators_grinding_power-stats_change'),('selectIndicators_grinding_power-stats_change',),0.1
+('confirmFiles_click', 'selectIndicators_grinding_power-stats_change'),('closeParametersModal_click',),0.1
+('confirmParameters_click', 'deleteChart_click'),('deleteChart_click',),0.2857
+('confirmParameters_click', 'deleteChart_click'),('selectTransformations_grinding_center_change',),0.1429
+('confirmParameters_click', 'deleteChart_click'),('manualSelectionModal_click',),0.2857
+('confirmParameters_click', 'deleteChart_click'),('addChart_click',),0.2857
+('distributionOneChart_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),1.0
+('confirmParameters_click', 'editIndicatorParametersModalChart_0'),('confirmParameters_click',),0.8
+('confirmParameters_click', 'editIndicatorParametersModalChart_0'),('closeParametersModal_click',),0.2
+('editIndicatorParametersModalChart_0', 'confirmParameters_click'),('selectIndicators_grinding_power-stats_change',),0.2
+('editIndicatorParametersModalChart_0', 'confirmParameters_click'),('editIndicatorParametersModalChart_0',),0.2
+('editIndicatorParametersModalChart_0', 'confirmParameters_click'),('manualSelectionModal_click',),0.4
+('editIndicatorParametersModalChart_0', 'confirmParameters_click'),('deleteChart_click',),0.2
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),0.6316
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('closeParametersModal_click',),0.1053
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_al2o3_change',),0.0526
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_cbn_change',),0.0263
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('selectIndicators_grinding_specific-energy_change',),0.0263
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('selectIndicators_grinding_power-stats_change',),0.0789
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('selectIndicators_grinding_force-stats_change',),0.0263
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('selectSignals_wheelhead2power_change',),0.0263
+('confirmParameters_click', 'selectIndicators_grinding_power-stats_change'),('selectSignals_x1axisposition_actual_change',),0.0263
+('confirmFiles_click', 'selectAction_delete_all_charts_change'),('selectIndicators_grinding_power-stats_change',),1.0
+('selectAction_delete_all_charts_change', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),1.0
+('confirmFiles_click', 'editIndicatorParametersModalChart_0'),('closeParametersModal_click',),1.0
+('editIndicatorParametersModalChart_0', 'closeParametersModal_click'),('manualSelectionModal_click',),0.3333
+('editIndicatorParametersModalChart_0', 'closeParametersModal_click'),('selectSignals_wheelhead2power_change',),0.3333
+('editIndicatorParametersModalChart_0', 'closeParametersModal_click'),('selectIndicators_grinding_specific-energy_change',),0.3333
+('closeParametersModal_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.2
+('closeParametersModal_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.8
+('distributionOneChart_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.8421
+('distributionOneChart_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.1579
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('editIndicatorParametersModalChart_0',),0.0909
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('selectIndicators_grinding_specific-energy_change',),0.0909
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('returnHome_click',),0.0909
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('logout_click',),0.0909
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('deleteChart_click',),0.1818
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('selectIndicators_grinding_power-stats_change',),0.0909
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('manualSelectionModal_click',),0.2727
+('selectIndicators_grinding_power-stats_change', 'closeParametersModal_click'),('selectAction_axis_limits_change',),0.0909
+('closeParametersModal_click', 'editIndicatorParametersModalChart_0'),('confirmParameters_click',),1.0
+('dataSchema_tdomonwh2x1z1_change',),('selectSignals_wheelhead2power_change',),0.5
+('dataSchema_tdomonwh2x1z1_change',),('manualSelectionModal_click',),0.5
+('selectMachine_lg600b6-100636-idk_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_wheelhead2power_change', 'dataSchema_tdomonwh2x1z1_change'),('selectSignals_wheelhead2power_change',),1.0
+('dataSchema_tdomonwh2x1z1_change', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2speed_actual_change',),1.0
+('selectSignals_wheelhead2speed_actual_change', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2speed_actual_change',),1.0
+('selectMachine_110000556_dec_click',),('manualSelectionModal_click',),0.3607
+('selectMachine_110000556_dec_click',),('distributionOneChart_click',),0.0656
+('selectMachine_110000556_dec_click',),('selectSignals_wheelhead2power_change',),0.0656
+('selectMachine_110000556_dec_click',),('logout_click',),0.0164
+('selectMachine_110000556_dec_click',),('sliderLastDatId_click',),0.0164
+('selectMachine_110000556_dec_click',),('deleteChart_click',),0.3115
+('selectMachine_110000556_dec_click',),('selectIndicators_grinding_power-stats_change',),0.0164
+('selectMachine_110000556_dec_click',),('selectMachine_110000556_dec_click',),0.0328
+('selectMachine_110000556_dec_click',),('returnHome_click',),0.0328
+('selectMachine_110000556_dec_click',),('selectAction_editar_selecci�n_de_ficheros_change',),0.0492
+('selectMachine_110000556_dec_click',),('downloadFiles_click',),0.0164
+('selectMachine_110000556_dec_click',),('sliderLastMonthId_click',),0.0164
+('selectTransformations_grinding_center_change',),('logout_click',),0.0571
+('selectTransformations_grinding_center_change',),('selectTransformations_grinding_center_change',),0.3143
+('selectTransformations_grinding_center_change',),('deleteChart_click',),0.1143
+('selectTransformations_grinding_center_change',),('selectTransformations_common_moving-average_change',),0.0571
+('selectTransformations_grinding_center_change',),('distributionOneChart_click',),0.0286
+('selectTransformations_grinding_center_change',),('selectAction_axis_limits_change',),0.0286
+('selectTransformations_grinding_center_change',),('returnHome_click',),0.0286
+('selectTransformations_grinding_center_change',),('selectTransformations_common_negate_change',),0.0571
+('selectTransformations_grinding_center_change',),('manualSelectionModal_click',),0.2
+('selectTransformations_grinding_center_change',),('dataSchema_tdomonwh2z1_change',),0.0286
+('selectTransformations_grinding_center_change',),('selectSignals_caxisspeed_actual_change',),0.0286
+('selectTransformations_grinding_center_change',),('selectIndicators_grinding_specific-energy_change',),0.0286
+('selectTransformations_grinding_center_change',),('addChart_click',),0.0286
+('logout_click',),('selectMachine_110000556_dec_click',),0.5556
+('logout_click',),('manualSelectionModal_click',),0.2222
+('logout_click',),('deleteChart_click',),0.1111
+('logout_click',),('distributionOneChart_click',),0.1111
+('selectAction_clonar_gr�fico_change',),('selectIndicators_grinding_specific-energy_change',),0.0909
+('selectAction_clonar_gr�fico_change',),('manualSelectionModal_click',),0.4545
+('selectAction_clonar_gr�fico_change',),('addChart_click',),0.1818
+('selectAction_clonar_gr�fico_change',),('selectAction_descargar_gr�fico_change',),0.0909
+('selectAction_clonar_gr�fico_change',),('selectIndicators_grinding_power-stats_change',),0.0909
+('selectAction_clonar_gr�fico_change',),('deleteChart_click',),0.0909
+('selectIndicators_grinding_specific-energy_change',),('confirmParameters_click',),0.4375
+('selectIndicators_grinding_specific-energy_change',),('selectIndicators_grinding_specific-energy_change',),0.0625
+('selectIndicators_grinding_specific-energy_change',),('Radiobutton_fluid_oil_change',),0.125
+('selectIndicators_grinding_specific-energy_change',),('closeParametersModal_click',),0.0625
+('selectIndicators_grinding_specific-energy_change',),('selectIndicators_grinding_defect-spark_change',),0.0625
+('selectIndicators_grinding_specific-energy_change',),('Radiobutton_steel_change',),0.0625
+('selectIndicators_grinding_specific-energy_change',),('selectIndicators_grinding_power-stats_change',),0.0625
+('selectIndicators_grinding_specific-energy_change',),('selectIndicators_grinding_material-fed_change',),0.0625
+('selectIndicators_grinding_specific-energy_change',),('selectTransformations_grinding_center_change',),0.0625
+('selectMachine_110000556_dec_click', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.1818
+('selectMachine_110000556_dec_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.4091
+('selectMachine_110000556_dec_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.4091
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('distributionOneChart_click',),0.0588
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('manualSelectionModal_click',),0.2353
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('logout_click',),0.1765
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('selectAction_axis_limits_change',),0.0588
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('deleteChart_click',),0.1765
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('selectMachine_110000556_dec_click',),0.0588
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('selectTransformations_grinding_center_change',),0.0588
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('selectTransformations_common_moving-average_change',),0.0588
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('addChart_click',),0.0588
+('manualSelectionModal_click', 'closeSelectFilesModal_click'),('selectSignals_wheelhead2power_change',),0.0588
+('closeSelectFilesModal_click', 'distributionOneChart_click'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_wheelhead2power_change', 'selectTransformations_grinding_center_change'),('logout_click',),0.3333
+('selectSignals_wheelhead2power_change', 'selectTransformations_grinding_center_change'),('manualSelectionModal_click',),0.3333
+('selectSignals_wheelhead2power_change', 'selectTransformations_grinding_center_change'),('dataSchema_tdomonwh2z1_change',),0.3333
+('selectTransformations_grinding_center_change', 'logout_click'),('selectMachine_110000556_dec_click',),1.0
+('logout_click', 'selectMachine_110000556_dec_click'),('distributionOneChart_click',),0.2
+('logout_click', 'selectMachine_110000556_dec_click'),('deleteChart_click',),0.6
+('logout_click', 'selectMachine_110000556_dec_click'),('selectMachine_110000556_dec_click',),0.2
+('selectMachine_110000556_dec_click', 'distributionOneChart_click'),('deleteChart_click',),0.5
+('selectMachine_110000556_dec_click', 'distributionOneChart_click'),('manualSelectionModal_click',),0.25
+('selectMachine_110000556_dec_click', 'distributionOneChart_click'),('selectIndicators_grinding_power-stats_change',),0.25
+('deleteChart_click', 'selectAction_clonar_gr�fico_change'),('selectIndicators_grinding_specific-energy_change',),0.5
+('deleteChart_click', 'selectAction_clonar_gr�fico_change'),('manualSelectionModal_click',),0.5
+('selectAction_clonar_gr�fico_change', 'selectIndicators_grinding_specific-energy_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_specific-energy_change', 'confirmParameters_click'),('selectIndicators_grinding_specific-energy_change',),0.5
+('selectIndicators_grinding_specific-energy_change', 'confirmParameters_click'),('manualSelectionModal_click',),0.1667
+('selectIndicators_grinding_specific-energy_change', 'confirmParameters_click'),('editIndicatorParametersModalChart_1',),0.1667
+('selectIndicators_grinding_specific-energy_change', 'confirmParameters_click'),('editIndicatorParametersModalChart_0',),0.1667
+('confirmParameters_click', 'selectIndicators_grinding_specific-energy_change'),('selectIndicators_grinding_specific-energy_change',),0.25
+('confirmParameters_click', 'selectIndicators_grinding_specific-energy_change'),('selectIndicators_grinding_defect-spark_change',),0.25
+('confirmParameters_click', 'selectIndicators_grinding_specific-energy_change'),('selectIndicators_grinding_power-stats_change',),0.25
+('confirmParameters_click', 'selectIndicators_grinding_specific-energy_change'),('selectIndicators_grinding_material-fed_change',),0.25
+('selectIndicators_grinding_specific-energy_change', 'selectIndicators_grinding_specific-energy_change'),('confirmParameters_click',),1.0
+('selectTransformations_common_moving-average_change',),('confirmParameters_click',),0.8182
+('selectTransformations_common_moving-average_change',),('selectTransformations_grinding_center_change',),0.0455
+('selectTransformations_common_moving-average_change',),('closeParametersModal_click',),0.0909
+('selectTransformations_common_moving-average_change',),('parameterwindowInfo_click',),0.0455
+('dataSchema_tdomonwh2x1_change',),('manualSelectionModal_click',),1.0
+('Radiobutton_fluid_oil_change',),('Radiobutton_fluid_water-based_change',),1.0
+('Radiobutton_fluid_water-based_change',),('confirmParameters_click',),0.5417
+('Radiobutton_fluid_water-based_change',),('Radiobutton_fluid_water-based_change',),0.0417
+('Radiobutton_fluid_water-based_change',),('Radiobutton_steel_change',),0.0417
+('Radiobutton_fluid_water-based_change',),('Radiobutton_al2o3_change',),0.2083
+('Radiobutton_fluid_water-based_change',),('Radiobutton_recta_change',),0.0833
+('Radiobutton_fluid_water-based_change',),('selectIndicators_grinding_power-stats_change',),0.0417
+('Radiobutton_fluid_water-based_change',),('closeParametersModal_click',),0.0417
+('selectMachine_lg600b6-100636-idk_click', 'selectTransformations_grinding_center_change'),('selectTransformations_grinding_center_change',),1.0
+('selectTransformations_grinding_center_change', 'selectTransformations_grinding_center_change'),('selectTransformations_grinding_center_change',),0.4545
+('selectTransformations_grinding_center_change', 'selectTransformations_grinding_center_change'),('deleteChart_click',),0.1818
+('selectTransformations_grinding_center_change', 'selectTransformations_grinding_center_change'),('selectTransformations_common_moving-average_change',),0.0909
+('selectTransformations_grinding_center_change', 'selectTransformations_grinding_center_change'),('selectAction_axis_limits_change',),0.0909
+('selectTransformations_grinding_center_change', 'selectTransformations_grinding_center_change'),('selectTransformations_common_negate_change',),0.0909
+('selectTransformations_grinding_center_change', 'selectTransformations_grinding_center_change'),('manualSelectionModal_click',),0.0909
+('selectTransformations_grinding_center_change', 'deleteChart_click'),('deleteChart_click',),1.0
+('deleteChart_click', 'selectTransformations_grinding_center_change'),('selectTransformations_grinding_center_change',),0.5
+('deleteChart_click', 'selectTransformations_grinding_center_change'),('selectTransformations_common_moving-average_change',),0.25
+('deleteChart_click', 'selectTransformations_grinding_center_change'),('distributionOneChart_click',),0.25
+('selectTransformations_grinding_center_change', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),1.0
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('deleteChart_click',),0.0556
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('dataSchema_tdomonwh2x1z1_change',),0.0556
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('selectTransformations_common_negate_change',),0.0556
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('addChart_click',),0.2222
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('selectAction_axis_limits_change',),0.1667
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('manualSelectionModal_click',),0.1667
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('selectSignals_z1axisforce_change',),0.0556
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('logout_click',),0.1111
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('selectTransformations_common_moving-average_change',),0.0556
+('selectTransformations_common_moving-average_change', 'confirmParameters_click'),('selectMachine_110000556_dec_click',),0.0556
+('confirmParameters_click', 'dataSchema_tdomonwh2x1z1_change'),('manualSelectionModal_click',),1.0
+('dataSchema_tdomonwh2x1z1_change', 'manualSelectionModal_click'),('updateFilesList_click',),1.0
+('confirmFiles_click', 'dataSchema_tdomonwh2x1_change'),('manualSelectionModal_click',),1.0
+('dataSchema_tdomonwh2x1_change', 'manualSelectionModal_click'),('updateFilesList_click',),1.0
+('confirmFiles_click', 'selectTransformations_grinding_center_change'),('deleteChart_click',),0.2
+('confirmFiles_click', 'selectTransformations_grinding_center_change'),('selectTransformations_grinding_center_change',),0.2
+('confirmFiles_click', 'selectTransformations_grinding_center_change'),('manualSelectionModal_click',),0.3
+('confirmFiles_click', 'selectTransformations_grinding_center_change'),('logout_click',),0.1
+('confirmFiles_click', 'selectTransformations_grinding_center_change'),('selectSignals_caxisspeed_actual_change',),0.1
+('confirmFiles_click', 'selectTransformations_grinding_center_change'),('addChart_click',),0.1
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectIndicators_grinding_power-stats_change',),0.575
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectIndicators_grinding_specific-energy_change',),0.05
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectIndicators_basic_basic-stats_change',),0.075
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),0.05
+('addChart_click', 'selectSignals_wheelhead2power_change'),('manualSelectionModal_click',),0.075
+('addChart_click', 'selectSignals_wheelhead2power_change'),('addChart_click',),0.025
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectAction_clonar_gr�fico_change',),0.025
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectTransformations_grinding_center_change',),0.025
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectAction_axis_limits_change',),0.025
+('addChart_click', 'selectSignals_wheelhead2power_change'),('logout_click',),0.025
+('addChart_click', 'selectSignals_wheelhead2power_change'),('deleteChart_click',),0.025
+('addChart_click', 'selectSignals_wheelhead2power_change'),('selectAction_editar_selecci�n_de_ficheros_change',),0.025
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_fluid_oil_change',),0.1667
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),0.5
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_steel_change',),0.0333
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_al2o3_change',),0.2333
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_power-stats_change'),('closeParametersModal_click',),0.0333
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_power-stats_change'),('selectIndicators_grinding_power-stats_change',),0.0333
+('selectIndicators_grinding_power-stats_change', 'Radiobutton_fluid_oil_change'),('Radiobutton_fluid_water-based_change',),1.0
+('Radiobutton_fluid_oil_change', 'Radiobutton_fluid_water-based_change'),('confirmParameters_click',),0.5455
+('Radiobutton_fluid_oil_change', 'Radiobutton_fluid_water-based_change'),('Radiobutton_fluid_water-based_change',),0.0455
+('Radiobutton_fluid_oil_change', 'Radiobutton_fluid_water-based_change'),('Radiobutton_steel_change',),0.0455
+('Radiobutton_fluid_oil_change', 'Radiobutton_fluid_water-based_change'),('Radiobutton_al2o3_change',),0.2273
+('Radiobutton_fluid_oil_change', 'Radiobutton_fluid_water-based_change'),('Radiobutton_recta_change',),0.0909
+('Radiobutton_fluid_oil_change', 'Radiobutton_fluid_water-based_change'),('selectIndicators_grinding_power-stats_change',),0.0455
+('Radiobutton_fluid_water-based_change', 'confirmParameters_click'),('addChart_click',),0.2308
+('Radiobutton_fluid_water-based_change', 'confirmParameters_click'),('manualSelectionModal_click',),0.3077
+('Radiobutton_fluid_water-based_change', 'confirmParameters_click'),('selectTransformations_common_moving-average_change',),0.0769
+('Radiobutton_fluid_water-based_change', 'confirmParameters_click'),('selectIndicators_grinding_power-stats_change',),0.3077
+('Radiobutton_fluid_water-based_change', 'confirmParameters_click'),('selectSignals_wheelhead2power_change',),0.0769
+('confirmParameters_click', 'addChart_click'),('selectIndicators_grinding_specific-energy_change',),0.0769
+('confirmParameters_click', 'addChart_click'),('selectSignals_wheelhead2power_change',),0.3077
+('confirmParameters_click', 'addChart_click'),('selectIndicators_grinding_force-stats_change',),0.0769
+('confirmParameters_click', 'addChart_click'),('selectIndicators_grinding_stiffness_change',),0.0769
+('confirmParameters_click', 'addChart_click'),('selectSignals_z1axisforce_change',),0.1538
+('confirmParameters_click', 'addChart_click'),('selectSignals_wheelhead2speed_actual_change',),0.1538
+('confirmParameters_click', 'addChart_click'),('selectSignals_caxisspeed_actual_change',),0.0769
+('confirmParameters_click', 'addChart_click'),('manualSelectionModal_click',),0.0769
+('addChart_click', 'selectIndicators_grinding_specific-energy_change'),('Radiobutton_fluid_oil_change',),1.0
+('selectIndicators_grinding_specific-energy_change', 'Radiobutton_fluid_oil_change'),('Radiobutton_fluid_water-based_change',),1.0
+('selectMachine_110000556_dec_click', 'selectSignals_wheelhead2power_change'),('manualSelectionModal_click',),0.3333
+('selectMachine_110000556_dec_click', 'selectSignals_wheelhead2power_change'),('logout_click',),0.3333
+('selectMachine_110000556_dec_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),0.3333
+('selectMachine_lg600b6-100636-idk_click', 'deleteChart_click'),('deleteChart_click',),1.0
+('selectIndicators_grinding_force-stats_change',),('closeParametersModal_click',),0.5
+('selectIndicators_grinding_force-stats_change',),('Axis-list_z1_change',),0.1667
+('selectIndicators_grinding_force-stats_change',),('confirmParameters_click',),0.1667
+('selectIndicators_grinding_force-stats_change',),('selectIndicators_grinding_specific-energy_change',),0.1667
+('selectIndicators_grinding_defect-spark_change',),('Axis-list_x1_change',),0.5
+('selectIndicators_grinding_defect-spark_change',),('Axis-list_z1_change',),0.5
+('Axis-list_x1_change',),('confirmParameters_click',),1.0
+('selectIndicators_grinding_stiffness_change',),('confirmParameters_click',),0.5
+('selectIndicators_grinding_stiffness_change',),('closeParametersModal_click',),0.5
+('selectAction_axis_limits_change',),('confirmAxisLimits_click',),0.9808
+('selectAction_axis_limits_change',),('selectAction_axis_limits_change',),0.0192
+('confirmAxisLimits_click',),('manualSelectionModal_click',),0.1373
+('confirmAxisLimits_click',),('selectTransformations_grinding_center_change',),0.0392
+('confirmAxisLimits_click',),('selectAction_axis_limits_change',),0.451
+('confirmAxisLimits_click',),('distributionOneChart_click',),0.0196
+('confirmAxisLimits_click',),('selectSignals_x1axisposition_actual_change',),0.0196
+('confirmAxisLimits_click',),('selectTransformations_common_moving-average_change',),0.1176
+('confirmAxisLimits_click',),('deleteChart_click',),0.0392
+('confirmAxisLimits_click',),('logout_click',),0.0392
+('confirmAxisLimits_click',),('selectSignals_wheelhead2power_change',),0.0196
+('confirmAxisLimits_click',),('selectIndicators_grinding_power-stats_change',),0.0784
+('confirmAxisLimits_click',),('addChart_click',),0.0196
+('confirmAxisLimits_click',),('selectAction_clonar_gr�fico_change',),0.0196
+('selectTransformations_grinding_center_change', 'distributionOneChart_click'),('addChart_click',),1.0
+('distributionOneChart_click', 'addChart_click'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_specific-energy_change'),('Radiobutton_fluid_oil_change',),0.5
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_specific-energy_change'),('confirmParameters_click',),0.5
+('Radiobutton_fluid_water-based_change', 'Radiobutton_fluid_water-based_change'),('confirmParameters_click',),1.0
+('addChart_click', 'selectIndicators_grinding_force-stats_change'),('closeParametersModal_click',),1.0
+('selectIndicators_grinding_force-stats_change', 'closeParametersModal_click'),('selectIndicators_grinding_defect-spark_change',),0.3333
+('selectIndicators_grinding_force-stats_change', 'closeParametersModal_click'),('selectIndicators_grinding_stiffness_change',),0.3333
+('selectIndicators_grinding_force-stats_change', 'closeParametersModal_click'),('selectIndicators_grinding_power-stats_change',),0.3333
+('closeParametersModal_click', 'selectIndicators_grinding_defect-spark_change'),('Axis-list_x1_change',),1.0
+('selectIndicators_grinding_defect-spark_change', 'Axis-list_x1_change'),('confirmParameters_click',),1.0
+('Axis-list_x1_change', 'confirmParameters_click'),('addChart_click',),1.0
+('addChart_click', 'selectIndicators_grinding_stiffness_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_stiffness_change', 'confirmParameters_click'),('selectAction_axis_limits_change',),1.0
+('confirmParameters_click', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('manualSelectionModal_click',),0.1373
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('selectTransformations_grinding_center_change',),0.0392
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('selectAction_axis_limits_change',),0.451
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('distributionOneChart_click',),0.0196
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('selectSignals_x1axisposition_actual_change',),0.0196
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('selectTransformations_common_moving-average_change',),0.1176
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('deleteChart_click',),0.0392
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('logout_click',),0.0392
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('selectSignals_wheelhead2power_change',),0.0196
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('selectIndicators_grinding_power-stats_change',),0.0784
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('addChart_click',),0.0196
+('selectAction_axis_limits_change', 'confirmAxisLimits_click'),('selectAction_clonar_gr�fico_change',),0.0196
+('confirmAxisLimits_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.5714
+('confirmAxisLimits_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.4286
+('deleteChart_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.6429
+('deleteChart_click', 'manualSelectionModal_click'),('confirmFiles_click',),0.2857
+('deleteChart_click', 'manualSelectionModal_click'),('logout_click',),0.0714
+('returnHome_click',),('selectMachine_110000556_dec_click',),0.6667
+('returnHome_click',),('selectMachine_lg600b6-100636-idk_click',),0.3333
+('selectIndicators_grinding_power-stats_change', 'selectIndicators_grinding_power-stats_change'),('closeParametersModal_click',),0.3333
+('selectIndicators_grinding_power-stats_change', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),0.5
+('selectIndicators_grinding_power-stats_change', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_cbn_change',),0.1667
+('closeParametersModal_click', 'selectIndicators_grinding_specific-energy_change'),('closeParametersModal_click',),0.5
+('closeParametersModal_click', 'selectIndicators_grinding_specific-energy_change'),('selectTransformations_grinding_center_change',),0.5
+('selectIndicators_grinding_specific-energy_change', 'closeParametersModal_click'),('selectIndicators_grinding_power-stats_change',),1.0
+('closeParametersModal_click', 'selectIndicators_grinding_power-stats_change'),('closeParametersModal_click',),0.1429
+('closeParametersModal_click', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_fluid_oil_change',),0.1429
+('closeParametersModal_click', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_steel_change',),0.1429
+('closeParametersModal_click', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_cbn_change',),0.1429
+('closeParametersModal_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),0.4286
+('closeParametersModal_click', 'returnHome_click'),('selectMachine_110000556_dec_click',),1.0
+('returnHome_click', 'selectMachine_110000556_dec_click'),('manualSelectionModal_click',),0.5
+('returnHome_click', 'selectMachine_110000556_dec_click'),('selectAction_editar_selecci�n_de_ficheros_change',),0.5
+('selectTransformations_grinding_center_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('confirmAxisLimits_click', 'selectTransformations_grinding_center_change'),('returnHome_click',),0.5
+('confirmAxisLimits_click', 'selectTransformations_grinding_center_change'),('selectTransformations_grinding_center_change',),0.5
+('confirmParameters_click', 'returnHome_click'),('selectMachine_lg600b6-100636-idk_click',),1.0
+('selectMachine_dm2_test_click',),('selectSignals_caxispower_change',),1.0
+('selectSignals_caxispower_change',),('selectIndicators_grinding_material-fed_change',),1.0
+('selectIndicators_grinding_material-fed_change',),('confirmParameters_click',),0.6
+('selectIndicators_grinding_material-fed_change',),('closeParametersModal_click',),0.2
+('selectIndicators_grinding_material-fed_change',),('selectIndicators_grinding_contact-point_change',),0.2
+('selectMachine_dm2_test_click', 'selectSignals_caxispower_change'),('selectIndicators_grinding_material-fed_change',),1.0
+('selectSignals_caxispower_change', 'selectIndicators_grinding_material-fed_change'),('confirmParameters_click',),1.0
+('selectMachine_lg600-b8-110000578_linamar_click',),('selectMachine_lg600-b8-110000578_linamar_click',),1.0
+('sliderLastDatId_click',),('manualSelectionModal_click',),0.25
+('sliderLastDatId_click',),('sliderLastWeekId_click',),0.25
+('sliderLastDatId_click',),('logout_click',),0.25
+('sliderLastDatId_click',),('distributionOneChart_click',),0.25
+('selectMachine_110000556_dec_click', 'sliderLastDatId_click'),('manualSelectionModal_click',),1.0
+('sliderLastDatId_click', 'manualSelectionModal_click'),('confirmFiles_click',),1.0
+('closeSelectFilesModal_click', 'logout_click'),('manualSelectionModal_click',),0.5
+('closeSelectFilesModal_click', 'logout_click'),('selectMachine_110000556_dec_click',),0.5
+('logout_click', 'manualSelectionModal_click'),('confirmFiles_click',),1.0
+('selectSignals_x1axisspeed_commanded_change',),('selectSignals_x1axisspeed_commanded_change',),0.1429
+('selectSignals_x1axisspeed_commanded_change',),('selectSignals_z1axisspeed_commanded_change',),0.7143
+('selectSignals_x1axisspeed_commanded_change',),('selectAction_axis_limits_change',),0.1429
+('selectSignals_z1axisspeed_commanded_change',),('deleteChart_click',),0.125
+('selectSignals_z1axisspeed_commanded_change',),('selectSignals_x1axisspeed_commanded_change',),0.25
+('selectSignals_z1axisspeed_commanded_change',),('selectSignals_wheelhead2power_change',),0.125
+('selectSignals_z1axisspeed_commanded_change',),('selectAction_axis_limits_change',),0.25
+('selectSignals_z1axisspeed_commanded_change',),('manualSelectionModal_click',),0.25
+('selectSignals_x1axisposition_actual_change',),('selectSignals_x1axisposition_actual_change',),0.5
+('selectSignals_x1axisposition_actual_change',),('selectSignals_wheelhead2power_change',),0.5
+('confirmFiles_click', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('confirmAxisLimits_click', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),0.9565
+('confirmAxisLimits_click', 'selectAction_axis_limits_change'),('selectAction_axis_limits_change',),0.0435
+('confirmAxisLimits_click', 'distributionOneChart_click'),('selectSignals_x1axisspeed_commanded_change',),1.0
+('distributionOneChart_click', 'selectSignals_x1axisspeed_commanded_change'),('selectSignals_x1axisspeed_commanded_change',),1.0
+('selectSignals_x1axisspeed_commanded_change', 'selectSignals_x1axisspeed_commanded_change'),('selectSignals_z1axisspeed_commanded_change',),1.0
+('selectSignals_x1axisspeed_commanded_change', 'selectSignals_z1axisspeed_commanded_change'),('deleteChart_click',),0.2
+('selectSignals_x1axisspeed_commanded_change', 'selectSignals_z1axisspeed_commanded_change'),('selectSignals_x1axisspeed_commanded_change',),0.4
+('selectSignals_x1axisspeed_commanded_change', 'selectSignals_z1axisspeed_commanded_change'),('selectSignals_wheelhead2power_change',),0.2
+('selectSignals_x1axisspeed_commanded_change', 'selectSignals_z1axisspeed_commanded_change'),('selectAction_axis_limits_change',),0.2
+('selectSignals_z1axisspeed_commanded_change', 'deleteChart_click'),('selectSignals_x1axisspeed_commanded_change',),1.0
+('deleteChart_click', 'selectSignals_x1axisspeed_commanded_change'),('selectSignals_z1axisspeed_commanded_change',),1.0
+('selectSignals_z1axisspeed_commanded_change', 'selectSignals_x1axisspeed_commanded_change'),('selectSignals_z1axisspeed_commanded_change',),1.0
+('selectSignals_z1axisspeed_commanded_change', 'selectSignals_wheelhead2power_change'),('selectSignals_x1axisspeed_commanded_change',),1.0
+('selectSignals_wheelhead2power_change', 'selectSignals_x1axisspeed_commanded_change'),('selectSignals_z1axisspeed_commanded_change',),0.5
+('selectSignals_wheelhead2power_change', 'selectSignals_x1axisspeed_commanded_change'),('selectAction_axis_limits_change',),0.5
+('selectSignals_z1axisspeed_commanded_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('confirmAxisLimits_click', 'selectSignals_x1axisposition_actual_change'),('selectSignals_x1axisposition_actual_change',),1.0
+('selectTransformations_common_negate_change',),('selectAction_axis_limits_change',),0.3333
+('selectTransformations_common_negate_change',),('selectTransformations_common_moving-average_change',),0.3333
+('selectTransformations_common_negate_change',),('deleteChart_click',),0.3333
+('selectIndicators_basic_basic-stats_change',),('closeParametersModal_click',),1.0
+('Axis-list_z1_change',),('closeParametersModal_click',),0.3333
+('Axis-list_z1_change',),('confirmParameters_click',),0.6667
+('selectIndicators_basic_quotient_change',),('Signal-list_z1axisforce_change',),0.6667
+('selectIndicators_basic_quotient_change',),('selectIndicators_grinding_specific-energy_change',),0.3333
+('Signal-list_z1axisforce_change',),('Signal-list_x1axisposition_actual_change',),0.5
+('Signal-list_z1axisforce_change',),('Signal-list_x1axisforce_change',),0.5
+('Signal-list_x1axisposition_actual_change',),('confirmParameters_click',),1.0
+('Signal-list_x1axisforce_change',),('Signal-list_x1axisposition_actual_change',),1.0
+('selectTransformations_grinding_center_change', 'selectTransformations_common_negate_change'),('selectAction_axis_limits_change',),0.5
+('selectTransformations_grinding_center_change', 'selectTransformations_common_negate_change'),('deleteChart_click',),0.5
+('selectTransformations_common_negate_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('confirmAxisLimits_click', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),0.6667
+('confirmAxisLimits_click', 'selectTransformations_common_moving-average_change'),('closeParametersModal_click',),0.3333
+('confirmParameters_click', 'selectTransformations_common_negate_change'),('selectTransformations_common_moving-average_change',),1.0
+('selectTransformations_common_negate_change', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),1.0
+('selectSignals_wheelhead2power_change', 'selectIndicators_basic_basic-stats_change'),('closeParametersModal_click',),1.0
+('selectIndicators_basic_basic-stats_change', 'closeParametersModal_click'),('selectIndicators_grinding_power-stats_change',),1.0
+('confirmParameters_click', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),1.0
+('confirmAxisLimits_click', 'deleteChart_click'),('deleteChart_click',),0.5
+('confirmAxisLimits_click', 'deleteChart_click'),('selectAction_clonar_gr�fico_change',),0.5
+('selectIndicators_grinding_power-stats_change', 'selectIndicators_grinding_force-stats_change'),('Axis-list_z1_change',),0.3333
+('selectIndicators_grinding_power-stats_change', 'selectIndicators_grinding_force-stats_change'),('confirmParameters_click',),0.3333
+('selectIndicators_grinding_power-stats_change', 'selectIndicators_grinding_force-stats_change'),('closeParametersModal_click',),0.3333
+('selectIndicators_grinding_force-stats_change', 'Axis-list_z1_change'),('closeParametersModal_click',),1.0
+('Axis-list_z1_change', 'closeParametersModal_click'),('selectIndicators_basic_quotient_change',),1.0
+('closeParametersModal_click', 'selectIndicators_basic_quotient_change'),('Signal-list_z1axisforce_change',),1.0
+('selectIndicators_basic_quotient_change', 'Signal-list_z1axisforce_change'),('Signal-list_x1axisposition_actual_change',),0.5
+('selectIndicators_basic_quotient_change', 'Signal-list_z1axisforce_change'),('Signal-list_x1axisforce_change',),0.5
+('Signal-list_z1axisforce_change', 'Signal-list_x1axisposition_actual_change'),('confirmParameters_click',),1.0
+('Signal-list_x1axisposition_actual_change', 'confirmParameters_click'),('selectIndicators_basic_quotient_change',),1.0
+('confirmParameters_click', 'selectIndicators_basic_quotient_change'),('Signal-list_z1axisforce_change',),0.5
+('confirmParameters_click', 'selectIndicators_basic_quotient_change'),('selectIndicators_grinding_specific-energy_change',),0.5
+('Signal-list_z1axisforce_change', 'Signal-list_x1axisforce_change'),('Signal-list_x1axisposition_actual_change',),1.0
+('Signal-list_x1axisforce_change', 'Signal-list_x1axisposition_actual_change'),('confirmParameters_click',),1.0
+('selectIndicators_basic_quotient_change', 'selectIndicators_grinding_specific-energy_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_specific-energy_change', 'selectIndicators_grinding_defect-spark_change'),('Axis-list_z1_change',),1.0
+('selectIndicators_grinding_defect-spark_change', 'Axis-list_z1_change'),('confirmParameters_click',),1.0
+('Axis-list_z1_change', 'confirmParameters_click'),('manualSelectionModal_click',),0.5
+('Axis-list_z1_change', 'confirmParameters_click'),('selectIndicators_grinding_force-stats_change',),0.5
+('confirmFiles_click', 'selectTransformations_common_moving-average_change'),('selectTransformations_grinding_center_change',),0.25
+('confirmFiles_click', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),0.75
+('selectTransformations_common_moving-average_change', 'selectTransformations_grinding_center_change'),('manualSelectionModal_click',),1.0
+('selectTransformations_grinding_center_change', 'manualSelectionModal_click'),('confirmFiles_click',),1.0
+('distributionOneChart_click', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('selectIndicators_grinding_contact-point_change',),('confirmParameters_click',),0.6667
+('selectIndicators_grinding_contact-point_change',),('selectIndicators_grinding_material-fed_change',),0.3333
+('Radiobutton_al2o3_change',),('Radiobutton_cbn_change',),0.7619
+('Radiobutton_al2o3_change',),('confirmParameters_click',),0.0952
+('Radiobutton_al2o3_change',),('Radiobutton_sic_change',),0.0476
+('Radiobutton_al2o3_change',),('Radiobutton_al2o3_change',),0.0476
+('Radiobutton_al2o3_change',),('Radiobutton_steel_change',),0.0476
+('Radiobutton_cbn_change',),('Radiobutton_fluid_oil_change',),0.5
+('Radiobutton_cbn_change',),('selectIndicators_grinding_power-stats_change',),0.05
+('Radiobutton_cbn_change',),('Radiobutton_al2o3_change',),0.1
+('Radiobutton_cbn_change',),('confirmParameters_click',),0.3
+('Radiobutton_cbn_change',),('Radiobutton_fluid_water-based_change',),0.05
+('Radiobutton_steel_change',),('Radiobutton_steel_change',),0.3
+('Radiobutton_steel_change',),('Radiobutton_steel_20mnvs6_change',),0.1
+('Radiobutton_steel_change',),('closeParametersModal_click',),0.1
+('Radiobutton_steel_change',),('Radiobutton_fluid_oil_change',),0.3
+('Radiobutton_steel_change',),('Radiobutton_recta_change',),0.1
+('Radiobutton_steel_change',),('Radiobutton_al2o3_change',),0.1
+('Radiobutton_steel_20mnvs6_change',),('Radiobutton_steel_20mnvs6_change',),0.5
+('Radiobutton_steel_20mnvs6_change',),('Radiobutton_steel_change',),0.5
+('selectTransformations_common_fft_change',),('closeParametersModal_click',),0.3
+('selectTransformations_common_fft_change',),('confirmParameters_click',),0.6
+('selectTransformations_common_fft_change',),('selectIndicators_grinding_power-stats_change',),0.1
+('parameterwindowInfo_click',),('confirmParameters_click',),1.0
+('Radiobutton_sic_change',),('Radiobutton_cbn_change',),1.0
+('confirmFiles_click', 'selectMachine_110000556_dec_click'),('manualSelectionModal_click',),1.0
+('addChart_click', 'distributionOneChart_click'),('selectIndicators_grinding_force-stats_change',),0.5
+('addChart_click', 'distributionOneChart_click'),('deleteChart_click',),0.5
+('distributionOneChart_click', 'selectIndicators_grinding_force-stats_change'),('closeParametersModal_click',),1.0
+('closeParametersModal_click', 'selectIndicators_grinding_stiffness_change'),('closeParametersModal_click',),1.0
+('selectIndicators_grinding_stiffness_change', 'closeParametersModal_click'),('selectIndicators_grinding_material-fed_change',),1.0
+('closeParametersModal_click', 'selectIndicators_grinding_material-fed_change'),('closeParametersModal_click',),1.0
+('selectIndicators_grinding_material-fed_change', 'closeParametersModal_click'),('selectIndicators_grinding_contact-point_change',),1.0
+('closeParametersModal_click', 'selectIndicators_grinding_contact-point_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_contact-point_change', 'confirmParameters_click'),('selectSignals_wheelhead2power_change',),1.0
+('confirmParameters_click', 'selectSignals_wheelhead2power_change'),('selectIndicators_grinding_contact-point_change',),0.3333
+('confirmParameters_click', 'selectSignals_wheelhead2power_change'),('selectIndicators_grinding_power-stats_change',),0.6667
+('selectSignals_wheelhead2power_change', 'selectIndicators_grinding_contact-point_change'),('selectIndicators_grinding_material-fed_change',),1.0
+('selectIndicators_grinding_contact-point_change', 'selectIndicators_grinding_material-fed_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_material-fed_change', 'confirmParameters_click'),('selectIndicators_grinding_power-stats_change',),0.5
+('selectIndicators_grinding_material-fed_change', 'confirmParameters_click'),('selectIndicators_grinding_material-fed_change',),0.5
+('selectIndicators_grinding_power-stats_change', 'Radiobutton_al2o3_change'),('Radiobutton_cbn_change',),0.9091
+('selectIndicators_grinding_power-stats_change', 'Radiobutton_al2o3_change'),('Radiobutton_sic_change',),0.0909
+('Radiobutton_al2o3_change', 'Radiobutton_cbn_change'),('Radiobutton_fluid_oil_change',),0.5625
+('Radiobutton_al2o3_change', 'Radiobutton_cbn_change'),('selectIndicators_grinding_power-stats_change',),0.0625
+('Radiobutton_al2o3_change', 'Radiobutton_cbn_change'),('confirmParameters_click',),0.375
+('Radiobutton_cbn_change', 'Radiobutton_fluid_oil_change'),('Radiobutton_fluid_water-based_change',),1.0
+('Radiobutton_fluid_water-based_change', 'Radiobutton_steel_change'),('Radiobutton_steel_change',),1.0
+('Radiobutton_steel_change', 'Radiobutton_steel_change'),('Radiobutton_steel_20mnvs6_change',),0.3333
+('Radiobutton_steel_change', 'Radiobutton_steel_change'),('closeParametersModal_click',),0.3333
+('Radiobutton_steel_change', 'Radiobutton_steel_change'),('Radiobutton_fluid_oil_change',),0.3333
+('Radiobutton_steel_change', 'Radiobutton_steel_20mnvs6_change'),('Radiobutton_steel_20mnvs6_change',),1.0
+('Radiobutton_steel_20mnvs6_change', 'Radiobutton_steel_20mnvs6_change'),('Radiobutton_steel_change',),1.0
+('Radiobutton_steel_20mnvs6_change', 'Radiobutton_steel_change'),('Radiobutton_steel_change',),1.0
+('Radiobutton_steel_change', 'closeParametersModal_click'),('logout_click',),1.0
+('closeParametersModal_click', 'logout_click'),('manualSelectionModal_click',),1.0
+('confirmFiles_click', 'addChart_click'),('selectSignals_x1axisforce_change',),0.0476
+('confirmFiles_click', 'addChart_click'),('selectSignals_z1axisforce_change',),0.0952
+('confirmFiles_click', 'addChart_click'),('deleteChart_click',),0.0476
+('confirmFiles_click', 'addChart_click'),('selectSignals_wheelhead2power_change',),0.6667
+('confirmFiles_click', 'addChart_click'),('manualSelectionModal_click',),0.0476
+('confirmFiles_click', 'addChart_click'),('selectIndicators_grinding_power-stats_change',),0.0476
+('confirmFiles_click', 'addChart_click'),('selectSignals_caxisspeed_actual_change',),0.0476
+('addChart_click', 'selectSignals_x1axisforce_change'),('addChart_click',),1.0
+('selectSignals_x1axisforce_change', 'addChart_click'),('selectSignals_z1axisforce_change',),1.0
+('addChart_click', 'selectSignals_z1axisforce_change'),('selectAction_axis_limits_change',),0.1429
+('addChart_click', 'selectSignals_z1axisforce_change'),('selectTransformations_common_moving-average_change',),0.2857
+('addChart_click', 'selectSignals_z1axisforce_change'),('selectTransformations_common_fft_change',),0.2857
+('addChart_click', 'selectSignals_z1axisforce_change'),('manualSelectionModal_click',),0.2857
+('selectSignals_z1axisforce_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('selectTransformations_common_moving-average_change', 'closeParametersModal_click'),('confirmParameters_click',),0.5
+('selectTransformations_common_moving-average_change', 'closeParametersModal_click'),('selectTransformations_common_moving-average_change',),0.5
+('closeParametersModal_click', 'confirmParameters_click'),('selectAction_axis_limits_change',),1.0
+('selectSignals_z1axisforce_change', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),1.0
+('confirmParameters_click', 'selectSignals_z1axisforce_change'),('selectSignals_x1axisforce_change',),1.0
+('selectSignals_z1axisforce_change', 'selectSignals_x1axisforce_change'),('selectAction_axis_limits_change',),1.0
+('selectSignals_x1axisforce_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('closeSelectFilesModal_click', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('selectSignals_z1axisforce_change', 'selectTransformations_common_fft_change'),('closeParametersModal_click',),0.5
+('selectSignals_z1axisforce_change', 'selectTransformations_common_fft_change'),('confirmParameters_click',),0.5
+('selectTransformations_common_fft_change', 'closeParametersModal_click'),('selectTransformations_common_fft_change',),0.3333
+('selectTransformations_common_fft_change', 'closeParametersModal_click'),('selectSignals_wheelhead2power_change',),0.6667
+('closeParametersModal_click', 'selectTransformations_common_fft_change'),('confirmParameters_click',),1.0
+('selectTransformations_common_fft_change', 'confirmParameters_click'),('addChart_click',),0.6667
+('selectTransformations_common_fft_change', 'confirmParameters_click'),('deleteChart_click',),0.1667
+('selectTransformations_common_fft_change', 'confirmParameters_click'),('selectTransformations_common_fft_change',),0.1667
+('addChart_click', 'selectSignals_wheelhead2speed_actual_change'),('selectTransformations_common_fft_change',),0.6667
+('addChart_click', 'selectSignals_wheelhead2speed_actual_change'),('addChart_click',),0.3333
+('selectSignals_wheelhead2speed_actual_change', 'selectTransformations_common_fft_change'),('confirmParameters_click',),1.0
+('addChart_click', 'selectSignals_caxisspeed_actual_change'),('selectTransformations_common_fft_change',),0.3333
+('addChart_click', 'selectSignals_caxisspeed_actual_change'),('addChart_click',),0.3333
+('addChart_click', 'selectSignals_caxisspeed_actual_change'),('selectSignals_caxisspeed_actual_change',),0.3333
+('selectSignals_caxisspeed_actual_change', 'selectTransformations_common_fft_change'),('confirmParameters_click',),1.0
+('distributionOneChart_click', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),1.0
+('selectSignals_wheelhead2power_change', 'deleteChart_click'),('addChart_click',),1.0
+('addChart_click', 'selectSignals_z1axisspeed_commanded_change'),('manualSelectionModal_click',),1.0
+('selectSignals_z1axisspeed_commanded_change', 'manualSelectionModal_click'),('confirmFiles_click',),1.0
+('confirmAxisLimits_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_wheelhead2power_change', 'selectSignals_z1axisspeed_commanded_change'),('selectAction_axis_limits_change',),1.0
+('closeParametersModal_click', 'selectTransformations_common_moving-average_change'),('parameterwindowInfo_click',),1.0
+('selectTransformations_common_moving-average_change', 'parameterwindowInfo_click'),('confirmParameters_click',),1.0
+('parameterwindowInfo_click', 'confirmParameters_click'),('selectTransformations_common_moving-average_change',),1.0
+('distributionOneChart_click', 'selectMachine_110000556_dec_click'),('deleteChart_click',),1.0
+('selectMachine_110000556_dec_click', 'deleteChart_click'),('deleteChart_click',),0.6316
+('selectMachine_110000556_dec_click', 'deleteChart_click'),('selectIndicators_grinding_power-stats_change',),0.0526
+('selectMachine_110000556_dec_click', 'deleteChart_click'),('manualSelectionModal_click',),0.1053
+('selectMachine_110000556_dec_click', 'deleteChart_click'),('distributionOneChart_click',),0.1579
+('selectMachine_110000556_dec_click', 'deleteChart_click'),('addChart_click',),0.0526
+('addChart_click', 'deleteChart_click'),('manualSelectionModal_click',),1.0
+('selectSignals_wheelhead2power_change', 'logout_click'),('deleteChart_click',),0.5
+('selectSignals_wheelhead2power_change', 'logout_click'),('distributionOneChart_click',),0.5
+('logout_click', 'deleteChart_click'),('distributionOneChart_click',),1.0
+('selectIndicators_grinding_power-stats_change', 'Radiobutton_steel_change'),('Radiobutton_fluid_oil_change',),0.5
+('selectIndicators_grinding_power-stats_change', 'Radiobutton_steel_change'),('Radiobutton_recta_change',),0.5
+('Radiobutton_steel_change', 'Radiobutton_fluid_oil_change'),('Radiobutton_fluid_water-based_change',),1.0
+('Radiobutton_fluid_water-based_change', 'Radiobutton_al2o3_change'),('Radiobutton_cbn_change',),1.0
+('Radiobutton_cbn_change', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_al2o3_change',),1.0
+('selectIndicators_grinding_power-stats_change', 'Radiobutton_cbn_change'),('Radiobutton_al2o3_change',),0.6667
+('selectIndicators_grinding_power-stats_change', 'Radiobutton_cbn_change'),('Radiobutton_fluid_water-based_change',),0.3333
+('Radiobutton_cbn_change', 'Radiobutton_al2o3_change'),('confirmParameters_click',),1.0
+('Radiobutton_al2o3_change', 'confirmParameters_click'),('selectIndicators_grinding_power-stats_change',),0.5
+('Radiobutton_al2o3_change', 'confirmParameters_click'),('deleteChart_click',),0.5
+('Radiobutton_cbn_change', 'confirmParameters_click'),('selectIndicators_grinding_power-stats_change',),0.3333
+('Radiobutton_cbn_change', 'confirmParameters_click'),('selectIndicators_grinding_specific-energy_change',),0.1667
+('Radiobutton_cbn_change', 'confirmParameters_click'),('manualSelectionModal_click',),0.1667
+('Radiobutton_cbn_change', 'confirmParameters_click'),('selectMachine_110000556_dec_click',),0.1667
+('Radiobutton_cbn_change', 'confirmParameters_click'),('selectAction_clonar_gr�fico_change',),0.1667
+('selectIndicators_grinding_power-stats_change', 'selectIndicators_grinding_specific-energy_change'),('Radiobutton_steel_change',),1.0
+('selectIndicators_grinding_specific-energy_change', 'Radiobutton_steel_change'),('Radiobutton_fluid_oil_change',),1.0
+('selectIndicators_grinding_specific-energy_change', 'selectIndicators_grinding_power-stats_change'),('closeParametersModal_click',),1.0
+('closeParametersModal_click', 'deleteChart_click'),('manualSelectionModal_click',),0.5
+('closeParametersModal_click', 'deleteChart_click'),('deleteChart_click',),0.5
+('addChart_click', 'manualSelectionModal_click'),('updateFilesList_click',),0.3333
+('addChart_click', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.6667
+('deleteChart_click', 'selectMachine_110000556_dec_click'),('manualSelectionModal_click',),1.0
+('Radiobutton_al2o3_change', 'Radiobutton_sic_change'),('Radiobutton_cbn_change',),1.0
+('Radiobutton_sic_change', 'Radiobutton_cbn_change'),('Radiobutton_fluid_oil_change',),1.0
+('closeSelectFilesModal_click', 'deleteChart_click'),('distributionOneChart_click',),0.3333
+('closeSelectFilesModal_click', 'deleteChart_click'),('addChart_click',),0.3333
+('closeSelectFilesModal_click', 'deleteChart_click'),('selectIndicators_grinding_power-stats_change',),0.3333
+('closeSelectFilesModal_click', 'selectMachine_110000556_dec_click'),('deleteChart_click',),1.0
+('downloadFiles_click',),('selectIndicators_grinding_specific-energy_change',),0.25
+('downloadFiles_click',),('sliderLastWeekId_click',),0.25
+('downloadFiles_click',),('manualSelectionModal_click',),0.25
+('downloadFiles_click',),('logout_click',),0.25
+('Radiobutton_recta_change',),('Radiobutton_al2o3_change',),0.3333
+('Radiobutton_recta_change',),('Radiobutton_angular_change',),0.3333
+('Radiobutton_recta_change',),('Radiobutton_steel_change',),0.3333
+('Radiobutton_angular_change',),('parameterwheel_angularInfo',),1.0
+('parameterwheel_angularInfo',),('closeParametersModal_click',),1.0
+('resetFilesFilters_click',),('updateFilesList_click',),0.5
+('resetFilesFilters_click',),('confirmFiles_click',),0.5
+('confirmFiles_click', 'downloadFiles_click'),('selectIndicators_grinding_specific-energy_change',),1.0
+('downloadFiles_click', 'selectIndicators_grinding_specific-energy_change'),('confirmParameters_click',),1.0
+('selectSignals_x1axisspeed_commanded_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('selectAction_axis_limits_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('confirmAxisLimits_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),1.0
+('confirmParameters_click', 'selectMachine_110000556_dec_click'),('manualSelectionModal_click',),0.6667
+('confirmParameters_click', 'selectMachine_110000556_dec_click'),('deleteChart_click',),0.3333
+('Radiobutton_steel_change', 'Radiobutton_recta_change'),('Radiobutton_al2o3_change',),1.0
+('Radiobutton_recta_change', 'Radiobutton_al2o3_change'),('Radiobutton_al2o3_change',),1.0
+('Radiobutton_al2o3_change', 'Radiobutton_al2o3_change'),('Radiobutton_steel_change',),1.0
+('Radiobutton_al2o3_change', 'Radiobutton_steel_change'),('Radiobutton_steel_change',),1.0
+('Radiobutton_fluid_water-based_change', 'Radiobutton_recta_change'),('Radiobutton_angular_change',),0.5
+('Radiobutton_fluid_water-based_change', 'Radiobutton_recta_change'),('Radiobutton_steel_change',),0.5
+('Radiobutton_recta_change', 'Radiobutton_angular_change'),('parameterwheel_angularInfo',),1.0
+('Radiobutton_angular_change', 'parameterwheel_angularInfo'),('closeParametersModal_click',),1.0
+('parameterwheel_angularInfo', 'closeParametersModal_click'),('manualSelectionModal_click',),1.0
+('updateFilesList_click', 'resetFilesFilters_click'),('updateFilesList_click',),0.5
+('updateFilesList_click', 'resetFilesFilters_click'),('confirmFiles_click',),0.5
+('resetFilesFilters_click', 'updateFilesList_click'),('confirmFiles_click',),1.0
+('selectMachine_110000556_dec_click', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_force-stats_change', 'confirmParameters_click'),('Axis-list_z1_change',),1.0
+('confirmParameters_click', 'Axis-list_z1_change'),('confirmParameters_click',),1.0
+('confirmParameters_click', 'selectIndicators_grinding_force-stats_change'),('selectIndicators_grinding_specific-energy_change',),1.0
+('selectIndicators_grinding_force-stats_change', 'selectIndicators_grinding_specific-energy_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_specific-energy_change', 'selectIndicators_grinding_material-fed_change'),('confirmParameters_click',),1.0
+('confirmParameters_click', 'selectIndicators_grinding_material-fed_change'),('selectIndicators_grinding_contact-point_change',),1.0
+('selectIndicators_grinding_material-fed_change', 'selectIndicators_grinding_contact-point_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_power-stats_change', 'selectSignals_wheelhead2power_change'),('editIndicatorParametersModalChart_0',),1.0
+('selectSignals_wheelhead2power_change', 'editIndicatorParametersModalChart_0'),('closeParametersModal_click',),1.0
+('closeParametersModal_click', 'selectSignals_wheelhead2power_change'),('selectIndicators_grinding_power-stats_change',),1.0
+('selectIndicators_grinding_power-stats_change', 'selectSignals_x1axisposition_actual_change'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_x1axisposition_actual_change', 'selectSignals_wheelhead2power_change'),('selectIndicators_grinding_power-stats_change',),1.0
+('resetFilesFilters_click', 'confirmFiles_click'),('manualSelectionModal_click',),1.0
+('closeSelectFilesModal_click', 'selectTransformations_grinding_center_change'),('manualSelectionModal_click',),1.0
+('selectSignals_wheelhead2speed_actual_change', 'addChart_click'),('selectSignals_caxisspeed_actual_change',),1.0
+('selectSignals_caxisspeed_actual_change', 'addChart_click'),('selectSignals_z1axisspeed_commanded_change',),1.0
+('distributionTwoCharts_click',),('selectAction_add_tags_change',),0.25
+('distributionTwoCharts_click',),('selectAction_editar_selecci�n_de_ficheros_change',),0.25
+('distributionTwoCharts_click',),('manualSelectionModal_click',),0.25
+('distributionTwoCharts_click',),('distributionOneChart_click',),0.25
+('selectAction_add_tags_change',),('closeTagFilesModal_click',),1.0
+('closeTagFilesModal_click',),('sliderLastDatId_click',),0.25
+('closeTagFilesModal_click',),('closeSelectFilesModal_click',),0.25
+('closeTagFilesModal_click',),('addTagsModal_click',),0.25
+('closeTagFilesModal_click',),('updateFilesList_click',),0.25
+('logout_click', 'distributionOneChart_click'),('distributionTwoCharts_click',),1.0
+('distributionOneChart_click', 'distributionTwoCharts_click'),('selectAction_add_tags_change',),0.3333
+('distributionOneChart_click', 'distributionTwoCharts_click'),('selectAction_editar_selecci�n_de_ficheros_change',),0.3333
+('distributionOneChart_click', 'distributionTwoCharts_click'),('manualSelectionModal_click',),0.3333
+('distributionTwoCharts_click', 'selectAction_add_tags_change'),('closeTagFilesModal_click',),1.0
+('selectAction_add_tags_change', 'closeTagFilesModal_click'),('sliderLastDatId_click',),1.0
+('selectAction_descargar_gr�fico_change',),('selectIndicators_grinding_power-stats_change',),0.5
+('selectAction_descargar_gr�fico_change',),('manualSelectionModal_click',),0.5
+('selectSignals_wheelhead2power_change', 'addChart_click'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_wheelhead2power_change', 'selectAction_clonar_gr�fico_change'),('manualSelectionModal_click',),0.5
+('selectSignals_wheelhead2power_change', 'selectAction_clonar_gr�fico_change'),('addChart_click',),0.5
+('selectAction_clonar_gr�fico_change', 'manualSelectionModal_click'),('updateFilesList_click',),0.4
+('selectAction_clonar_gr�fico_change', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.2
+('selectAction_clonar_gr�fico_change', 'manualSelectionModal_click'),('confirmFiles_click',),0.4
+('selectAction_clonar_gr�fico_change', 'addChart_click'),('selectSignals_z1axisforce_change',),0.5
+('selectAction_clonar_gr�fico_change', 'addChart_click'),('manualSelectionModal_click',),0.5
+('selectSignals_z1axisforce_change', 'manualSelectionModal_click'),('closeSelectFilesModal_click',),0.5
+('selectSignals_z1axisforce_change', 'manualSelectionModal_click'),('updateFilesList_click',),0.5
+('closeSelectFilesModal_click', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),1.0
+('confirmFiles_click', 'selectAction_clonar_gr�fico_change'),('selectAction_descargar_gr�fico_change',),0.25
+('confirmFiles_click', 'selectAction_clonar_gr�fico_change'),('deleteChart_click',),0.25
+('confirmFiles_click', 'selectAction_clonar_gr�fico_change'),('manualSelectionModal_click',),0.25
+('confirmFiles_click', 'selectAction_clonar_gr�fico_change'),('addChart_click',),0.25
+('selectAction_clonar_gr�fico_change', 'selectAction_descargar_gr�fico_change'),('selectIndicators_grinding_power-stats_change',),1.0
+('selectAction_descargar_gr�fico_change', 'selectIndicators_grinding_power-stats_change'),('closeParametersModal_click',),1.0
+('confirmParameters_click', 'logout_click'),('selectMachine_110000556_dec_click',),1.0
+('selectMachine_110000556_dec_click', 'selectMachine_110000556_dec_click'),('deleteChart_click',),0.5
+('selectMachine_110000556_dec_click', 'selectMachine_110000556_dec_click'),('returnHome_click',),0.5
+('selectSignals_wheelhead2power_change', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('closeSelectFilesModal_click', 'addChart_click'),('selectSignals_wheelhead2power_change',),0.5
+('closeSelectFilesModal_click', 'addChart_click'),('sliderLastMonthId_click',),0.5
+('Radiobutton_recta_change', 'Radiobutton_steel_change'),('Radiobutton_al2o3_change',),1.0
+('Radiobutton_steel_change', 'Radiobutton_al2o3_change'),('Radiobutton_cbn_change',),1.0
+('confirmAxisLimits_click', 'addChart_click'),('selectSignals_wheelhead2power_change',),1.0
+('Radiobutton_fluid_water-based_change', 'selectIndicators_grinding_power-stats_change'),('Radiobutton_fluid_oil_change',),1.0
+('confirmParameters_click', 'selectAction_clonar_gr�fico_change'),('selectIndicators_grinding_power-stats_change',),0.5
+('confirmParameters_click', 'selectAction_clonar_gr�fico_change'),('manualSelectionModal_click',),0.5
+('selectAction_clonar_gr�fico_change', 'selectIndicators_grinding_power-stats_change'),('selectIndicators_grinding_power-stats_change',),1.0
+('closeParametersModal_click', 'selectAction_axis_limits_change'),('confirmAxisLimits_click',),1.0
+('confirmAxisLimits_click', 'selectAction_clonar_gr�fico_change'),('manualSelectionModal_click',),1.0
+('dataSchema_tdomonwh2z1_change',),('manualSelectionModal_click',),1.0
+('editIndicatorParametersModalChart_1',),('selectSignals_wheelhead2power_change',),1.0
+('selectTransformations_grinding_center_change', 'dataSchema_tdomonwh2z1_change'),('manualSelectionModal_click',),1.0
+('dataSchema_tdomonwh2z1_change', 'manualSelectionModal_click'),('updateFilesList_click',),1.0
+('selectTransformations_grinding_center_change', 'selectSignals_caxisspeed_actual_change'),('selectSignals_z1axisforce_change',),1.0
+('selectSignals_caxisspeed_actual_change', 'selectSignals_z1axisforce_change'),('deleteChart_click',),1.0
+('selectSignals_z1axisforce_change', 'deleteChart_click'),('deleteChart_click',),1.0
+('confirmParameters_click', 'editIndicatorParametersModalChart_1'),('selectSignals_wheelhead2power_change',),1.0
+('editIndicatorParametersModalChart_1', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),1.0
+('selectSignals_caxisspeed_actual_change', 'selectSignals_caxisspeed_actual_change'),('selectTransformations_grinding_center_change',),1.0
+('selectSignals_caxisspeed_actual_change', 'selectTransformations_grinding_center_change'),('selectIndicators_grinding_specific-energy_change',),1.0
+('selectTransformations_grinding_center_change', 'selectIndicators_grinding_specific-energy_change'),('confirmParameters_click',),1.0
+('selectIndicators_grinding_specific-energy_change', 'selectTransformations_grinding_center_change'),('selectTransformations_common_negate_change',),1.0
+('sliderLastMonthId_click',),('sliderLastDatId_click',),0.3333
+('sliderLastMonthId_click',),('sliderLastWeekId_click',),0.3333
+('sliderLastMonthId_click',),('selectAction_delete_all_charts_change',),0.3333
+('sliderLastWeekId_click',),('sliderLastDatId_click',),0.6667
+('sliderLastWeekId_click',),('sliderLastMonthId_click',),0.3333
+('addChart_click', 'sliderLastMonthId_click'),('sliderLastDatId_click',),1.0
+('sliderLastMonthId_click', 'sliderLastDatId_click'),('sliderLastWeekId_click',),1.0
+('sliderLastDatId_click', 'sliderLastWeekId_click'),('sliderLastDatId_click',),1.0
+('sliderLastWeekId_click', 'sliderLastDatId_click'),('logout_click',),0.5
+('sliderLastWeekId_click', 'sliderLastDatId_click'),('distributionOneChart_click',),0.5
+('selectAction_editar_selecci�n_de_ficheros_change',),('selectMachine_110000556_dec_click',),0.0714
+('selectAction_editar_selecci�n_de_ficheros_change',),('downloadFiles_click',),0.0714
+('selectAction_editar_selecci�n_de_ficheros_change',),('updateFilesList_click',),0.7857
+('selectAction_editar_selecci�n_de_ficheros_change',),('editTagsModal_click',),0.0714
+('selectMachine_110000556_dec_click', 'returnHome_click'),('selectMachine_110000556_dec_click',),1.0
+('selectMachine_110000556_dec_click', 'selectAction_editar_selecci�n_de_ficheros_change'),('selectMachine_110000556_dec_click',),0.3333
+('selectMachine_110000556_dec_click', 'selectAction_editar_selecci�n_de_ficheros_change'),('updateFilesList_click',),0.6667
+('selectAction_editar_selecci�n_de_ficheros_change', 'selectMachine_110000556_dec_click'),('downloadFiles_click',),1.0
+('selectMachine_110000556_dec_click', 'downloadFiles_click'),('sliderLastWeekId_click',),1.0
+('downloadFiles_click', 'sliderLastWeekId_click'),('sliderLastDatId_click',),1.0
+('sliderLastDatId_click', 'distributionOneChart_click'),('distributionTwoCharts_click',),1.0
+('distributionTwoCharts_click', 'selectAction_editar_selecci�n_de_ficheros_change'),('downloadFiles_click',),1.0
+('selectAction_editar_selecci�n_de_ficheros_change', 'downloadFiles_click'),('manualSelectionModal_click',),1.0
+('distributionTwoCharts_click', 'manualSelectionModal_click'),('updateFilesList_click',),1.0
+('selectAction_clonar_gr�fico_change', 'deleteChart_click'),('addChart_click',),1.0
+('updateFilesList_click', 'manualSelectionModal_click'),('updateFilesList_click',),1.0
+('Radiobutton_cbn_change', 'Radiobutton_fluid_water-based_change'),('closeParametersModal_click',),1.0
+('Radiobutton_fluid_water-based_change', 'closeParametersModal_click'),('selectIndicators_grinding_power-stats_change',),1.0
+('confirmParameters_click', 'selectAction_editar_selecci�n_de_ficheros_change'),('updateFilesList_click',),1.0
+('selectAction_editar_selecci�n_de_ficheros_change', 'updateFilesList_click'),('updateFilesList_click',),0.3636
+('selectAction_editar_selecci�n_de_ficheros_change', 'updateFilesList_click'),('confirmFiles_click',),0.6364
+('addTagsModal_click',),('closeTagFilesModal_click',),1.0
+('manualSelectionModal_click', 'manualSelectionModal_click'),('updateFilesList_click',),1.0
+('manualSelectionModal_click', 'addTagsModal_click'),('closeTagFilesModal_click',),1.0
+('addTagsModal_click', 'closeTagFilesModal_click'),('closeSelectFilesModal_click',),0.5
+('addTagsModal_click', 'closeTagFilesModal_click'),('updateFilesList_click',),0.5
+('closeTagFilesModal_click', 'closeSelectFilesModal_click'),('manualSelectionModal_click',),1.0
+('selectTransformations_grinding_center_change', 'addChart_click'),('selectSignals_wheelhead2power_change',),1.0
+('confirmParameters_click', 'selectAction_descargar_gr�fico_change'),('manualSelectionModal_click',),1.0
+('selectAction_descargar_gr�fico_change', 'manualSelectionModal_click'),('downloadFiles_click',),1.0
+('manualSelectionModal_click', 'downloadFiles_click'),('logout_click',),1.0
+('deleteChart_click', 'selectTransformations_common_moving-average_change'),('confirmParameters_click',),1.0
+('selectMachine_110000556_dec_click', 'sliderLastMonthId_click'),('sliderLastWeekId_click',),1.0
+('sliderLastMonthId_click', 'sliderLastWeekId_click'),('sliderLastMonthId_click',),1.0
+('sliderLastWeekId_click', 'sliderLastMonthId_click'),('selectAction_delete_all_charts_change',),1.0
+('sliderLastMonthId_click', 'selectAction_delete_all_charts_change'),('distributionTwoCharts_click',),1.0
+('selectAction_delete_all_charts_change', 'distributionTwoCharts_click'),('distributionOneChart_click',),1.0
+('distributionTwoCharts_click', 'distributionOneChart_click'),('selectSignals_wheelhead2power_change',),1.0
+('editTagsModal_click',),('closeTagFilesModal_click',),1.0
+('confirmFiles_click', 'selectAction_editar_selecci�n_de_ficheros_change'),('updateFilesList_click',),0.8333
+('confirmFiles_click', 'selectAction_editar_selecci�n_de_ficheros_change'),('editTagsModal_click',),0.1667
+('selectAction_editar_selecci�n_de_ficheros_change', 'editTagsModal_click'),('closeTagFilesModal_click',),1.0
+('editTagsModal_click', 'closeTagFilesModal_click'),('addTagsModal_click',),1.0
+('closeTagFilesModal_click', 'addTagsModal_click'),('closeTagFilesModal_click',),1.0
+('closeTagFilesModal_click', 'updateFilesList_click'),('confirmFiles_click',),1.0
+('deleteChart_click', 'selectSignals_wheelhead2power_change'),('selectSignals_wheelhead2power_change',),1.0
+('confirmParameters_click', 'selectTransformations_common_fft_change'),('closeParametersModal_click',),0.3333
+('confirmParameters_click', 'selectTransformations_common_fft_change'),('confirmParameters_click',),0.3333
+('confirmParameters_click', 'selectTransformations_common_fft_change'),('selectIndicators_grinding_power-stats_change',),0.3333
+('selectTransformations_common_fft_change', 'selectIndicators_grinding_power-stats_change'),('confirmParameters_click',),1.0
+('distributionOneChart_click', 'selectTransformations_common_fft_change'),('closeParametersModal_click',),1.0
+('selectSignals_wheelhead2power_change', 'selectAction_editar_selecci�n_de_ficheros_change'),('updateFilesList_click',),1.0

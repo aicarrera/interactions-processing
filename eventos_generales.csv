@@ -1,0 +1,117 @@
+Cuenta de evento_general;;;;usuario;;;;;;;;
+maquina;evento_general;selecci髇;subseleccion;dbarrenetxea;eamilibia;eurkia;ggutierrezeizaguirre;iricondo;jalvarez;pruiz;ubueno;Total general
+110000556 DEC;selectAction;Add tags;(en blanco);;1;;;;;;;1
+;;Total Add tags;;;1;;;;;;;1
+;;Axis limits;(en blanco);42;;;9;;;;;51
+;;Total Axis limits;;42;;;9;;;;;51
+;;Clonar gr谩fico;(en blanco);9;;;;;;;;9
+;;Total Clonar gr谩fico;;9;;;;;;;;9
+;;Descargar gr谩fico;(en blanco);1;;;;;;;;1
+;;Total Descargar gr谩fico;;1;;;;;;;;1
+;;Editar selecci贸n de ficheros;(en blanco);;2;;;;;;;2
+;;Total Editar selecci贸n de ficheros;;;2;;;;;;;2
+;Total selectAction;;;52;3;;9;;;;;64
+;selectIndicators;basic;basic-stats;1;;;;;;;;1
+;;;quotient;3;;;;;;;;3
+;;Total basic;;4;;;;;;;;4
+;;grinding;contact-point;2;;;1;;;;;3
+;;;defect-spark;1;;;;;;;;1
+;;;force-stats;2;;;2;;;;;4
+;;;material-fed;2;;;2;;;;;4
+;;;power-stats;44;;;17;;;;;61
+;;;specific-energy;7;;;4;;;;;11
+;;;stiffness;1;;;;;;;;1
+;;Total grinding;;59;;;26;;;;;85
+;Total selectIndicators;;;63;;;26;;;;;89
+;selectMachine;Editar selecci贸n de ficheros;(en blanco);;1;;;;;;;1
+;;Total Editar selecci贸n de ficheros;;;1;;;;;;;1
+;;grinding;power-stats;;;;2;;;;;2
+;;Total grinding;;;;;2;;;;;2
+;Total selectMachine;;;;1;;2;;;;;3
+;selectSignals;CAxisSpeed_actual;(en blanco);2;;;;;;;;2
+;;Total CAxisSpeed_actual;;2;;;;;;;;2
+;;Wheelhead2Power;(en blanco);28;2;;9;;;;;39
+;;Total Wheelhead2Power;;28;2;;9;;;;;39
+;;Wheelhead2Speed_actual;(en blanco);3;;;;;;;;3
+;;Total Wheelhead2Speed_actual;;3;;;;;;;;3
+;;X1AxisForce;(en blanco);2;;;;;;;;2
+;;Total X1AxisForce;;2;;;;;;;;2
+;;X1AxisPosition_actual;(en blanco);;;;3;;;;;3
+;;Total X1AxisPosition_actual;;;;;3;;;;;3
+;;X1AxisSpeed_commanded;(en blanco);;;;7;;;;;7
+;;Total X1AxisSpeed_commanded;;;;;7;;;;;7
+;;Z1AxisForce;(en blanco);7;;;;;;;;7
+;;Total Z1AxisForce;;7;;;;;;;;7
+;;Z1AxisSpeed_commanded;(en blanco);3;;;5;;;;;8
+;;Total Z1AxisSpeed_commanded;;3;;;5;;;;;8
+;Total selectSignals;;;45;2;;24;;;;;71
+;selectTransformations;common;fft;6;;;;;;;;6
+;;;moving-average;16;;;;;;;;16
+;;;negate;2;;;;;;;;2
+;;Total common;;24;;;;;;;;24
+;;grinding;center;15;;;5;;;;;20
+;;Total grinding;;15;;;5;;;;;20
+;Total selectTransformations;;;39;;;5;;;;;44
+Total 110000556 DEC;;;;199;6;;66;;;;;271
+DM2 Test;selectIndicators;grinding;material-fed;;;;;1;;;;1
+;;Total grinding;;;;;;1;;;;1
+;Total selectIndicators;;;;;;;1;;;;1
+;selectSignals;CAxisPower;(en blanco);;;;;1;;;;1
+;;Total CAxisPower;;;;;;1;;;;1
+;Total selectSignals;;;;;;;1;;;;1
+Total DM2 Test;;;;;;;;2;;;;2
+LG1000 - 100672 IDK;selectSignals;CAxisSpeed_actual;(en blanco);3;;;;;;;;3
+;;Total CAxisSpeed_actual;;3;;;;;;;;3
+;;Wheelhead2Power;(en blanco);6;;;;;;;;6
+;;Total Wheelhead2Power;;6;;;;;;;;6
+;;Wheelhead2Speed_actual;(en blanco);3;;;;;;;;3
+;;Total Wheelhead2Speed_actual;;3;;;;;;;;3
+;;X1AxisForce;(en blanco);3;;;;;;;;3
+;;Total X1AxisForce;;3;;;;;;;;3
+;;Z1AxisForce;(en blanco);3;;;;;;;;3
+;;Total Z1AxisForce;;3;;;;;;;;3
+;Total selectSignals;;;18;;;;;;;;18
+Total LG1000 - 100672 IDK;;;;18;;;;;;;;18
+LG400A-100648 (RECC06) TX;selectSignals;Wheelhead1Power;(en blanco);;;1;;;;;;1
+;;Total Wheelhead1Power;;;;1;;;;;;1
+;Total selectSignals;;;;;1;;;;;;1
+Total LG400A-100648 (RECC06) TX;;;;;;1;;;;;;1
+LG600B6-100636-IDK;selectAction;Axis limits;(en blanco);1;;;;;;;;1
+;;Total Axis limits;;1;;;;;;;;1
+;;Delete all charts;(en blanco);;;;1;;;;;1
+;;Total Delete all charts;;;;;1;;;;;1
+;Total selectAction;;;1;;;1;;;;;2
+;selectIndicators;grinding;defect-spark;1;;;;;;;;1
+;;;force-stats;1;;;;;;;;1
+;;;power-stats;5;;;11;;;;;16
+;;;specific-energy;2;;;;;;3;;5
+;;;stiffness;1;;;;;;;;1
+;;Total grinding;;10;;;11;;;3;;24
+;Total selectIndicators;;;10;;;11;;;3;;24
+;selectMachine;grinding;center;;;;1;;;;;1
+;;;specific-energy;1;;;;;;;;1
+;;Total grinding;;1;;;1;;;;;2
+;Total selectMachine;;;1;;;1;;;;;2
+;selectSignals;CAxisSpeed_actual;(en blanco);;;;;;1;3;;4
+;;Total CAxisSpeed_actual;;;;;;;1;3;;4
+;;Wheelhead2Power;(en blanco);3;;;;;;6;7;16
+;;Total Wheelhead2Power;;3;;;;;;6;7;16
+;;Wheelhead2Speed_actual;(en blanco);;;;;;;;2;2
+;;Total Wheelhead2Speed_actual;;;;;;;;;2;2
+;;X1AxisPosition_actual;(en blanco);;;;;;;;1;1
+;;Total X1AxisPosition_actual;;;;;;;;;1;1
+;;Z1AxisForce;(en blanco);;;;;;;1;;1
+;;Total Z1AxisForce;;;;;;;;1;;1
+;Total selectSignals;;;3;;;;;1;10;10;24
+;selectTransformations;common;moving-average;2;;;;;;;;2
+;;;negate;;;;;;;1;;1
+;;Total common;;2;;;;;;1;;3
+;;grinding;center;11;;;;;;4;;15
+;;Total grinding;;11;;;;;;4;;15
+;Total selectTransformations;;;13;;;;;;5;;18
+Total LG600B6-100636-IDK;;;;28;;;13;;1;18;10;70
+LG600-B8-110000578 LINAMAR;selectMachine;grinding;material-fed;;;;;1;;;;1
+;;Total grinding;;;;;;1;;;;1
+;Total selectMachine;;;;;;;1;;;;1
+Total LG600-B8-110000578 LINAMAR;;;;;;;;1;;;;1
+Total general;;;;245;6;1;79;3;1;18;10;363
